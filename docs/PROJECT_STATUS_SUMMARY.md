@@ -210,7 +210,6 @@ These are **local analytical objects**, not GitHub deliverables. The repository 
 - `DIAS_PERM` is the primary LOS measure; LOS categories are locked (`0`/`1-3`/`4-7`/`8-30`/`31+` days). `QT_DIARIAS` is exploratory only, never a replacement.
 - ICD-10 chapter mapping uses the verified ICICT lookup — never `LEFT(DIAG_PRINC,1)`.
 - `DIAG_SECUN`, `CID_ASSO`, `CID_MORTE`, `US_TOT`, `VAL_SADT`, `INFEHOSP`, `HOMONIMO`, `NATUREZA`, `UF_ZI` are all excluded, each for an independently confirmed reason.
-- `VAL_VC` and `VAL_OU` are not real variables in this project — never existed in the source schema; do not reintroduce them if they resurface in a future draft.
 - `IDENT` stays outside the frozen table, joined only via the composite key (`N_AIH`+`ANO_CMPT`+`MES_CMPT`) — never `N_AIH` alone.
 - `ESPEC` remains the original SIH field; `LEITOS` supplies the description, confirmed via explicit SIH ETL documentation.
 - `CNES` remains in the dataset; facility-level enrichment/analysis is excluded from current scope.
@@ -224,21 +223,6 @@ These are **local analytical objects**, not GitHub deliverables. The repository 
 
 ---
 
-## 6. Final project closure and GitHub packaging
-
-Q4 analytical work and the Tableau dashboard are complete. Remaining work is **repository packaging and public-facing documentation**, not expansion of the analytical scope.
-
-### Final packaging sequence
-
-1. Preserve the frozen `SIH_SUS_2024_analysis_ready` dataset and local analytical database; do not modify or upload them.
-2. Retain the final reproducible extraction script (`extract_monthly.py`) and final Q1–Q4 SQL scripts.
-3. Include only the lookup/reference files required to reproduce the final analytical mappings (for example ICD-10, `LEITOS`, and UF mapping).
-4. Include the final analytical plan/scope, project status summary, data dictionary, references, and final project synthesis/findings document.
-5. Include the final Tableau workbook and four final dashboard screenshots.
-6. Add `.gitignore` rules excluding raw SIH/SUS data, monthly extracts, local databases, and temporary development files.
-7. Add `data/README.md` explaining that the source data and 13.8M-row analytical dataset are intentionally not redistributed in the repository.
-8. Final README should present the project objective, four analytical questions, methodology/validation approach, selected findings, dashboard, limitations, and repository navigation.
-
 ### Q4 cautions retained
 
 - Interpret `VAL_TOT` within the SIH/SUS reimbursement/recorded-value context — not automatically "complete economic cost."
@@ -249,7 +233,7 @@ Q4 analytical work and the Tableau dashboard are complete. Remaining work is **r
 
 ---
 
-## 7. Deliverable inventory
+## 6. Deliverable inventory
 
 | File/object | Purpose | Status |
 |---|---|---|
@@ -271,11 +255,3 @@ Q4 analytical work and the Tableau dashboard are complete. Remaining work is **r
 | Q4 cost analysis | Financial/expenditure analysis | **Complete** |
 | Final Tableau dashboard | Four dashboard views covering Q1–Q4 | **Complete** |
 | GitHub repository package | Reproducible scripts, documentation, dashboard and selected references; no raw data/database | **Next** |
-
----
-
-## 8. Immediate next step
-
-**Package the completed project for GitHub.** No further analytical expansion is planned unless a genuine analytical error is discovered during final repository review.
-
-The public repository should contain the reproducible code, documentation, reference/lookup files needed for interpretation, final Tableau workbook/screenshots, and final findings — **not raw SIH/SUS data, the local SQLite database, or populated analytical tables/views**.
