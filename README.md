@@ -71,27 +71,32 @@ The source dataset contains 113 variables. A structured selection process based 
 
 The project uses derived variables for analytical age groups, ICD-10 chapter labels, secondary-diagnosis count, length-of-stay categories, ICU involvement, continuation context, and cost per day where the denominator is valid.
 
-Repository Structure
+## Repository Structure
 
-sih-sus-2024-hospital-admissions-analytics/
-├── README.md
-├── .gitignore
-├── LICENSE
+```text
+SIH-SUS-2024-Hospital-Admissions-Analytics/
+├── data_enrichment/
+│   ├── LEITOS_enriched.csv
+│   ├── data_dictionary.md
+│   ├── icd10_chapter_lookup_en.csv
+│   ├── Q1_variable_reference.csv
+│   ├── Q2_variable_reference.csv
+│   ├── Q3_variable_reference.csv
+│   └── Q4_variable_reference.csv
 ├── docs/
-│   ├── SIH_SUS_2024_Analytical_Plan_and_Scope.pdf
 │   ├── PROJECT_STATUS_SUMMARY.md
+│   ├── SIH_SUS 2024_Analytical_Plan_and_Scope.pdf
 │   ├── SIH_SUS_2024_Variable_Selection_and_Analysis_Plan.xlsx
 │   └── references.md
-├── data_enrichment/
-│   ├── icd10_chapter_lookup_en.csv
-│   ├── LEITOS_enriched.csv
-│	├──	data_dictionary.md
-│   └── variables_references files
 ├── notebooks/
-│   ├── validation notebooks and validation log
-│   ├── selected-variable extraction notebook
-│   └── ICD-10 lookup notebook
-│
+│   ├── ICD10_lookup/
+│   │   └── ICD_10_lookup.ipynb
+│   ├── extraction/
+│   │   └── selected_variables_extraction.ipynb
+│   └── validation/
+│       ├── 01_validation_template.ipynb
+│       ├── diff_log.md
+│       └── streamlined_validation_template.ipynb
 ├── sql/
 │   ├── 01_create_analysis_ready_table.sql
 │   ├── 02_create_lookup_tables.sql
@@ -99,10 +104,19 @@ sih-sus-2024-hospital-admissions-analytics/
 │   ├── 04_q2_clinical_case_mix.sql
 │   ├── 05_q3_resource_utilization.sql
 │   └── 06_q4_cost_analysis.sql
-│
-└── tableau/
-    ├── SIH_SUS_2024_Hospital_Admissions_Analytics.twbx
-    └── screenshots/
+├── tableau/
+│   └── screenshots/
+│       ├── demography.png
+│       ├── diagnosis_01.png
+│       ├── diagnosis_02.png
+│       ├── Resource_utilization_01.png
+│       ├── Resource_utilization_02.png
+│       ├── Cost_financial_drivers_01.png
+│       └── Cost_financial_drivers_02.png
+├── .gitignore
+├── LICENSE
+└── README.md
+```
 	
 	
 ### Unit of analysis
