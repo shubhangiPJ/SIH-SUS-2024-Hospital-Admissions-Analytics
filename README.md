@@ -6,7 +6,22 @@ The analysis emphasizes data quality, transparent methodology, and descriptive(n
 
 
 
-**[Dashboard overview](dashboard/screenshots/01_demography.png)
+**[Dashboard previews]
+
+![Demographics](tableau/screenshots/demography.png)
+
+![Diagnostic Case Mix](tableau/screenshots/diagnosis_01.png)
+
+![Diagnostic Case Mix](tableau/screenshots/diagnosis_02.png)
+
+![Resource Utilization](tableau/screenshots/Resource_utilization_01.png)
+
+![Resource Utilization](tableau/screenshots/Resource_utilization_02.png)
+
+![Cost/Financial Drivers](tableau/screenshots/Cost_financial_drivers_01.png)
+
+![Cost/Financial Drivers](tableau/screenshots/Cost_financial_drivers_02.png)
+
 **[View the interactive Tableau dashboard](https://public.tableau.com/views/SIH_SUS_2024_Hospital_Admissions_Analytics/demography?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
