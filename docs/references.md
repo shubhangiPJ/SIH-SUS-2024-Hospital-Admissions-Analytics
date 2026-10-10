@@ -8,8 +8,9 @@ Documents the external sources used to validate, interpret, and categorize the S
 
 ## Primary Sources
 
-### DATASUS — Notas Técnicas (Technical Notes)
-`http://tabnet.datasus.gov.br/cgi/sih/rxdescr.htm`
+### DATASUS — Notas Técnicas
+[DATASUS Technical Notes — SIH-SUS](http://tabnet.datasus.gov.br/cgi/sih/rxdescr.htm)
+
 
 Official Ministério da Saúde / DATASUS technical documentation for SIH-SUS hospitalization data. Highest-authority source used in this project.
 
@@ -19,14 +20,26 @@ Official Ministério da Saúde / DATASUS technical documentation for SIH-SUS hos
 - Official assignment rule for `DIAG_PRINC` vs. secondary diagnosis fields in multi-surgery cases.
 
 **Not confirmed by this source (checked, not found):**
-- `UF_ZI`'s specific "payment-system, not physical location" caveat — plausible, not verified in retrieved text.
+
 - Specific `DIAS_PERM`/hospital-occupancy calculation caveat — not located in retrieved text. 
 
 
-Previously marked as unconfirmed — now verified:
+Additional finding verified on subsequent review:
 - UF_ZI: DATASUS documentation states that, according to the AIH payment system, some hospitals are associated with a Federation Unit (UF-ZI) that does not correspond to the Federation Unit of their physical location. Therefore, UF_ZI should not be interpreted as a direct indicator of hospital physical location.
+
+
+
+
+
+
+### ### Data Science Platform Applied to Health (PCDaS) — SIHSUS ETL Documentation
+
+The documentation describes the extract, transform, and load (ETL) process applied to data from DATASUS’s SUS Hospital Information System (SIH/SUS) for integration into the Data Science Platform Applied to Health (PCDaS). This source was consulted to understand data enrichment and transformation processes, including the use of decoded fields in the dataset.
+
+[SIH/SUS — PCDaS Documentation](https://pcdas.icict.fiocruz.br/conjunto-de-dados/sistema-de-informacoes-hospitalares-do-sus-sihsus/documentacao/)
 ### Portela et al., "Algoritmo para a composição de dados por internação a partir do SIH/SUS"
 Cadernos de Saúde Pública, 1997, 13(4):771-774. DOI: 10.1590/S0102-311X1997000400020. Portela, Schramm, Pepe, Noronha (Escola Nacional de Saúde Pública/Fiocruz), Pinto, Cianeli (Secretaria de Saúde do Estado do Rio de Janeiro).
+[Portela et al. (1997) — article DOI](https://doi.org/10.1590/S0102-311X1997000400020)
 
 **Note on age:** published 1997 — nearly 30 years old. Cited as the foundational methodological paper for a *structural characteristic of the AIH system* that remains true today (confirmed still being cited in a 2024 systematic review of SIH/SUS strengths and limitations), not as a description of the current data pipeline.
 
@@ -49,6 +62,8 @@ Cadernos de Saúde Pública, 1997, 13(4):771-774. DOI: 10.1590/S0102-311X1997000
 ### Souto et al., "Dataset of hospital admissions authorizations in Brazil"
 Research Square preprint, DOI: 10.21203/rs.3.rs-3838281/v1 — Souto, Kreischer, Saldanha, et al. (PCDaS/ICICT, Fiocruz), posted January 2024.
 
+[Souto et al. — Research Square preprint](https://doi.org/10.21203/rs.3.rs-3838281/v1)
+
 Describes the PCDaS team's own ETL methodology for SIH/SUS data — directly relevant as the same institutional source as this project's data dictionary.
 
 **Confirms:**
@@ -61,13 +76,17 @@ Describes the PCDaS team's own ETL methodology for SIH/SUS data — directly rel
 ### Coelho, Rocha & Hone, "Improvements in data completeness in health information systems reveal racial inequalities: longitudinal national data from hospital admissions in Brazil 2010–2022"
 *International Journal for Equity in Health*, 2024. DOI: 10.1186/s12939-024-02214-3
 
+[Coelho, Rocha & Hone (2024) — article DOI](https://doi.org/10.1186/s12939-024-02214-3)
+
 Peer-reviewed national longitudinal study of race/color data completeness in SIH specifically.
 
 **Confirms — major finding:**
 - Missing race/color values in Brazil's SIH declined from **34.7% (2010) to 21.2% (2020)** — an 11-year, national, documented trend of improving race/color recording completeness. This directly explains this project's largest unresolved 2024 finding: `RACA_COR = 99` declining 48% (282→146) over the year is consistent with, and likely a continuation of, this pre-existing national trend — not noise or a project-specific artifact. **This finding is moved to the "Confirmed" table below** on the strength of this source, though the exact code (`RACA_COR=99` specifically, vs. general "missing") and the specific 2024 monthly rate of decline are the project's own empirical measurement, not directly replicated in the paper.
 
 ### bigdata-icict/ETL-Dataiku-DSS — `bases_auxiliares.zip` (full lookup tables)
-`https://github.com/bigdata-icict/ETL-Dataiku-DSS/blob/master/SIH/bases_auxiliares.zip`
+
+
+[PCDaS/ICICT ETL repository — auxiliary SIH lookup tables](https://github.com/bigdata-icict/ETL-Dataiku-DSS/blob/master/SIH/bases_auxiliares.zip)`
 
 The actual auxiliary lookup tables referenced by the ETL wiki page above — not samples or excerpts, but the complete official code tables PCDaS's own pipeline joins against. Obtained and inspected directly for this project. Copies retained in `lookup_tables/` (`ETNIA.csv`, `NACION3D.csv`, `CBO.csv`, `CNAE.csv`, `LEITOS.csv`, `TB_SIGTAB.csv`).
 
@@ -79,7 +98,9 @@ The actual auxiliary lookup tables referenced by the ETL wiki page above — not
 - **Zero letter-prefixed codes exist anywhere in this table.** This means the `X###`-format codes observed in the actual 2024 data (Sep–Dec, e.g. `X400`, `X306`, `X266`) are now **confirmed absent** from the official lookup table used by this ETL pipeline — a stronger, more precise statement than "undocumented." Two explanations remain open: (a) a newer/updated official indigenous-ethnicity coding scheme exists (e.g., via FUNAI) that post-dates this 2019-vintage auxiliary table, or (b) some other coding convention not captured in this specific snapshot. Neither is confirmed. The underlying correlation with `RACA_COR=5` (100% across all 195 observed instances) still holds and remains the best available evidence that the codes are structurally legitimate, even without a label source.
 
 ### bigdata-icict/ETL-Dataiku-DSS — SIM dictionary (`dict_SIM.csv`)
-`https://github.com/bigdata-icict/ETL-Dataiku-DSS/blob/master/SIM/dict_SIM.csv`
+
+
+[PCDaS/ICICT ETL repository — SIM dictionary](https://github.com/bigdata-icict/ETL-Dataiku-DSS/blob/master/SIM/dict_SIM.csv)
 
 SIM (Sistema de Informações sobre Mortalidade) is a different DATASUS subsystem from SIH — checked here only for a specific comparison, not adopted as a source for this project's SIH-based derivations.
 
@@ -89,7 +110,9 @@ SIM (Sistema de Informações sobre Mortalidade) is a different DATASUS subsyste
 
 
 ### bigdata-icict/ETL-Dataiku-DSS Wiki — "SIH" page
-`https://github.com/bigdata-icict/ETL-Dataiku-DSS/wiki/SIH#1-decodificando-e-enriquecendo-os-dados`
+
+
+[PCDaS/ICICT ETL Wiki — SIH decoding and enrichment](https://github.com/bigdata-icict/ETL-Dataiku-DSS/wiki/SIH#1-decodificando-e-enriquecendo-os-dados)
 
 Official methodology documentation from the same institutional source as `dict_SIH.csv` (already cited above) and `preview_SIH.csv` (Synapse: syn52558808). Documents the decoding/enrichment ("decodificando e enriquecendo os dados") process used to generate the `def_*`-labeled columns mined for this project's `variable_reference.csv`.
 
@@ -98,20 +121,24 @@ Official methodology documentation from the same institutional source as `dict_S
 ---
 
 ### Kaggle — "SIH/SUS - Hospital Admissions Municipalities 2024"
-`https://www.kaggle.com/datasets/andersonfranca/sistema-de-informaes-hospitalares-sus/data`
+
+[Original Kaggle dataset — SIH/SUS Hospital Admissions Municipalities 2024](https://www.kaggle.com/datasets/andersonfranca/sistema-de-informaes-hospitalares-sus/data)
 
 The original dataset source this project began from. Referenced again here specifically because its documentation confirms the `IDENT` field's full code scheme: `1=Principal, 3=Continuação, 5=Longa permanência`. This resolves what was previously an uncited claim (`IDENT=3="Continuação"` had no source in this project's own verification trail, though code 3 was never observed in the 2024 data regardless). `IDENT=1` and `IDENT=5` were already independently confirmed via the official ETL wiki decode table and directly via SQL frequency queries against the raw data (see Q3/Q4 variable references and `PROJECT_STATUS_SUMMARY.md`).
 
 ## Supporting Sources
 
 ### PCDaS / Fiocruz (ICICT) Documentation
-`https://pcdas.icict.fiocruz.br/conjunto-de-dados/sistema-de-informacoes-hospitalares-do-sus-sihsus/documentacao/`
-`https://pcdas.icict.fiocruz.br/conjunto-de-dados/sistema-de-informacoes-hospitalares-do-sus-sihsus/analise-visual/`
+
+[PCDaS/Fiocruz — SIH/SUS documentation](https://pcdas.icict.fiocruz.br/conjunto-de-dados/sistema-de-informacoes-hospitalares-do-sus-sihsus/documentacao/)
+
+[PCDaS/Fiocruz — SIH/SUS visual analysis](https://pcdas.icict.fiocruz.br/conjunto-de-dados/sistema-de-informacoes-hospitalares-do-sus-sihsus/analise-visual/)
 
 Source of the original 241-variable data dictionary, filtered to the 113 variables present in this dataset and translated to English. Same institutional lineage as `bigdata-icict/ETL-Dataiku-DSS` (GitHub), which was cross-referenced during initial dictionary construction (`dict_SIH.csv`).
 
 ### healthbR (R package documentation)
-`https://sidneybissoli.github.io/healthbR/articles/sih-hospital-admissions.html`
+
+[healthbR — SIH hospital admissions guide](https://sidneybissoli.github.io/healthbR/articles/sih-hospital-admissions.html)
 
 Practical/applied reference confirming general SIH structure (monthly AIH-level records, state coverage) and a plausible set of analytically central variables (`DIAG_PRINC`, `DIAS_PERM`, `MORTE`, `MUNIC_RES`/`MUNIC_MOV`, `VAL_TOT`, `PROC_REA`, `UTI_MES_TO`, `SEXO`, `NASC`). Treated as a supporting/practical source, not primary authority — DATASUS documentation takes precedence wherever the two would conflict.
 
@@ -141,9 +168,9 @@ LinkedIn article, April 2024.
 | `ETNIA` field regulatory origin (Oct 2010) | DATASUS SIH RD layout (Portaria 508/2010) |
 | Dataset is AIH RD (processed/validated), not RJ or SP | Souto et al. 2024 |
 | Source dictionary has known imperfections (~10% of variables) | Souto et al. 2024 |
-| **`RACA_COR = 99` declining over time reflects a real, pre-existing national trend, not noise** | **Coelho, Rocha & Hone 2024 — national SIH race/color missingness fell 34.7%→21.2%, 2010–2020** |
+| **`RACA_COR = 99` declining over time reflects a real, pre-existing national trend, not noise** | National SIH race/color missingness declined from 34.7% in 2010 to 21.2% in 2020 [Coelho, Rocha & Hone (2024)](https://doi.org/10.1186/s12939-024-02214-3);contextual evidence only for the project's 2024 pattern |
 | Dataset scope is hospital/inpatient (SIH), distinct from ambulatory (SIA) | Villegas Ramirez 2024 (LinkedIn) |
-| Public-domain DATASUS-based research is exempt from CEP/CONEP ethics review | Resolução CNS 510/2016, Art. 1º (independently verified) |
+| Research using public-domain information is listed among the categories exempt from CEP/CONEP registration and evaluation | Resolução CNS nº 510/2016, Art. 1º, sole paragraph, item III — [official text](https://www.gov.br/conselho-nacional-de-saude/pt-br/atos-normativos/resolucoes/2016/resolucao-no-510.pdf) | 
 | `variable_reference.csv` decoded value labels are official PCDaS decodes, not self-inferred | bigdata-icict/ETL-Dataiku-DSS Wiki, "SIH" page |
 | `ETNIA` alphanumeric `X###` codes are confirmed **absent** from the official 265-code ETNIA lookup table (all-numeric, `0000`–`0264`) | `bases_auxiliares.zip`, `ETNIA.csv` (directly inspected) |
 | `NACIONAL`, `CBOR`, `CNAER`, `ESPEC`, `PROC_SOLIC`/`PROC_REA` full code tables | `bases_auxiliares.zip` (directly inspected) |
