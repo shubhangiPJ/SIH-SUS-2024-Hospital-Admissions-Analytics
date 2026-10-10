@@ -1,6 +1,6 @@
-# SIH/SUS 2024 Hospital Admissions Analytics — Project Status Summary
+	# SIH/SUS 2024 Hospital Admissions Analytics — Project Status Summary
 
-**Last updated:** 2026-09-27 — Q4 closed; final dashboard completed; project ready for GitHub packaging
+**Last updated:** 2026-10-08 — Q4 closed; final dashboard completed; project ready for GitHub packaging
 
 **Purpose:** Single reference point for where the project stands — what is completed, what was decided, what remains, and where the analytical work should continue.
 
@@ -154,7 +154,7 @@ Consolidated analytical view: `q3_resource_utilization` (combines the frozen bas
 
 ### Phase 17 — Q4 completed
 
-**Financial-variable specification finalized:** `VAL_TOT` (total AIH value), `VAL_SH` (hospital services), `VAL_SP` (professional services), `VAL_UTI` (ICU-related financial component), `VAL_UCI` (UCI/intermediate-care financial component), with `FINANC`/`FAEC_TP` retained as supporting fields where interpretable. `VAL_SADT` and `US_TOT` remained excluded; `VAL_VC` and `VAL_OU` were never part of the source schema and are not project variables.
+**Financial-variable specification finalized:** `VAL_TOT` (total AIH value), `VAL_SH` (hospital services), `VAL_SP` (professional services), `VAL_UTI` (ICU-related financial component), `VAL_UCI` (UCI/intermediate-care financial component), with `FINANC`/`FAEC_TP` retained as supporting fields where interpretable. `VAL_SADT` and `US_TOT` remained excluded.
 
 **Financial interpretation:** `VAL_TOT` is interpreted within the SIH/SUS reimbursement/recorded-value context, not as complete economic cost. `VAL_SH` and `VAL_SP` were used as recorded components of `VAL_TOT`; no profitability, efficiency, cost-effectiveness, or value-for-money claims are made.
 
@@ -237,21 +237,23 @@ These are **local analytical objects**, not GitHub deliverables. The repository 
 
 | File/object | Purpose | Status |
 |---|---|---|
-| `data_dictionary.md` | Master 113-variable dictionary | Reference |
-| `diff_log.md` | Jan–Dec validation record | Final |
-| `references.md` | External source documentation | Final |
-| `variable_reference.csv` | Full 113-variable reference | Reference |
-| `Q1`–`Q4_variable_reference.csv` | Question-specific variable decisions | Reference |
-| `lookup_tables/` | Official code/reference tables used in the project | Maintained |
-| `SIH_SUS_Analytical_Framework.docx` | Business objective, stakeholders, questions, scope | Core reference |
-| `SIH_SUS_2024_analysis_ready` | Frozen 54-variable analytical base | **Frozen / local only** |
-| `icd10_chapter_lookup_en` | ICD-10 chapter enrichment | Active / local |
-| `IDENT_lookup_final` | Continuation enrichment | Active / local |
-| `LEITOS_enriched` | ESPEC/bed-category enrichment | Active / local |
-| `q3_resource_utilization` | Consolidated Q3 analytical view | Active / local |
-| Q1 results | Demographic/geographic findings | **Complete** |
-| Q2 results | ICD-10/case-mix findings | **Complete** |
-| Q3 results | Resource-utilization findings | **Complete** |
-| Q4 cost analysis | Financial/expenditure analysis | **Complete** |
-| Final Tableau dashboard | Four dashboard views covering Q1–Q4 | **Complete** |
-| GitHub repository package | Reproducible scripts, documentation, dashboard and selected references; no raw data/database | **Next** |
+| `data_dictionary.md` | Master dictionary covering the 113 source variables | Reference |
+| `diff_log.md` | Record of validation checks and differences identified during Jan–Dec data validation | Final |
+| `references.md` | Documentation of external sources used in the project | Final |
+| `Q1`–`Q4_variable_reference.csv` | Question-specific variable selection and analytical decisions | Reference |
+| Lookup and enrichment files | Reference tables supporting ICD-10 chapter mapping, continuation-record handling, and ESPEC/bed-category enrichment | Maintained |
+| Analytical plan and scope document | Business objective, analytical questions, scope, and planned deliverables | Core reference |
+| `SIH_SUS_2024_analysis_ready` | Frozen 54-variable analytical base derived from the source data | **Frozen / local only** |
+| `icd10_chapter_lookup_en` | ICD-10 chapter enrichment used for diagnostic case-mix analysis | Active / local |
+| `IDENT_lookup_final` | Continuation-record enrichment | Active / local |
+| `LEITOS_enriched` | ESPEC and bed-category enrichment | Active / local |
+| `q3_resource_utilization` | Consolidated analytical view for resource-utilization analysis | Active / local |
+| Q1 results | Demographic and geographic analysis | Complete |
+| Q2 results | ICD-10 and diagnostic case-mix analysis | Complete |
+| Q3 results | Resource-utilization analysis | Complete |
+| Q4 cost analysis | Financial and expenditure analysis | Complete |
+| Tableau dashboard views | Visualization of findings across Q1–Q4 | Complete |
+| Tableau Public dashboard | Interactive presentation of the project findings | Published |
+| GitHub repository package | Public project documentation, analytical code, selected reference files, and dashboard screenshots; excludes raw data and the local database | Published |
+
+
