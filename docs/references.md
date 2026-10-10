@@ -32,7 +32,7 @@ Additional finding verified on subsequent review:
 
 
 
-### ### Data Science Platform Applied to Health (PCDaS) — SIHSUS ETL Documentation
+### Data Science Platform Applied to Health (PCDaS) — SIHSUS ETL Documentation
 
 The documentation describes the extract, transform, and load (ETL) process applied to data from DATASUS’s SUS Hospital Information System (SIH/SUS) for integration into the Data Science Platform Applied to Health (PCDaS). This source was consulted to understand data enrichment and transformation processes, including the use of decoded fields in the dataset.
 
