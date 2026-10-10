@@ -1,0 +1,87 @@
+--02 - reference_and_lookup_tables.sql
+--02.01 ICD-10 enrichment
+
+CREATE TABLE icd10_chapter_lookup_en (
+    icd10_category TEXT NOT NULL,
+    icd10_chapter_code INTEGER NOT NULL,
+    icd10_chapter_label TEXT NOT NULL
+);
+--Then the import of the project-derived CSV produced by the ICD-10 Jupyter workflow.	
+
+--02.02 IDENT_lookup
+
+CREATE VIEW IDENT_lookup_final AS
+SELECT
+    N_AIH,
+    ANO_CMPT,
+    MES_CMPT,
+    MAX(CASE WHEN IDENT = 1 THEN 1 ELSE 0 END) AS has_ident_1,
+    MAX(CASE WHEN IDENT = 5 THEN 1 ELSE 0 END) AS has_ident_5,
+    SUM(CASE WHEN IDENT = 5 THEN 1 ELSE 0 END) AS continuation_count,
+    SUM(CASE WHEN IDENT = 5 THEN QT_DIARIAS ELSE 0 END) AS continuation_days,
+    SUM(CASE WHEN IDENT = 5 THEN VAL_TOT ELSE 0 END) AS continuation_cost,
+    MIN(DT_INTER) AS admission_start,
+    MAX(DT_SAIDA) AS discharge_end
+FROM (
+    SELECT N_AIH, ANO_CMPT, MES_CMPT, IDENT,
+           QT_DIARIAS, VAL_TOT, DT_INTER, DT_SAIDA
+    FROM RD202401
+    UNION ALL
+    SELECT N_AIH, ANO_CMPT, MES_CMPT, IDENT,
+           QT_DIARIAS, VAL_TOT, DT_INTER, DT_SAIDA
+    FROM RD202402
+    UNION ALL
+    SELECT N_AIH, ANO_CMPT, MES_CMPT, IDENT,
+           QT_DIARIAS, VAL_TOT, DT_INTER, DT_SAIDA
+    FROM RD202403
+    UNION ALL
+    SELECT N_AIH, ANO_CMPT, MES_CMPT, IDENT,
+           QT_DIARIAS, VAL_TOT, DT_INTER, DT_SAIDA
+    FROM RD202404
+    UNION ALL
+    SELECT N_AIH, ANO_CMPT, MES_CMPT, IDENT,
+           QT_DIARIAS, VAL_TOT, DT_INTER, DT_SAIDA
+    FROM RD202405
+    UNION ALL
+    SELECT N_AIH, ANO_CMPT, MES_CMPT, IDENT,
+           QT_DIARIAS, VAL_TOT, DT_INTER, DT_SAIDA
+    FROM RD202406
+    UNION ALL
+    SELECT N_AIH, ANO_CMPT, MES_CMPT, IDENT,
+           QT_DIARIAS, VAL_TOT, DT_INTER, DT_SAIDA
+    FROM RD202407
+    UNION ALL
+    SELECT N_AIH, ANO_CMPT, MES_CMPT, IDENT,
+           QT_DIARIAS, VAL_TOT, DT_INTER, DT_SAIDA
+    FROM RD202408
+    UNION ALL
+    SELECT N_AIH, ANO_CMPT, MES_CMPT, IDENT,
+           QT_DIARIAS, VAL_TOT, DT_INTER, DT_SAIDA
+    FROM RD202409
+    UNION ALL
+    SELECT N_AIH, ANO_CMPT, MES_CMPT, IDENT,
+           QT_DIARIAS, VAL_TOT, DT_INTER, DT_SAIDA
+    FROM RD202410
+    UNION ALL
+    SELECT N_AIH, ANO_CMPT, MES_CMPT, IDENT,
+           QT_DIARIAS, VAL_TOT, DT_INTER, DT_SAIDA
+    FROM RD202411
+    UNION ALL
+    SELECT N_AIH, ANO_CMPT, MES_CMPT, IDENT,
+           QT_DIARIAS, VAL_TOT, DT_INTER, DT_SAIDA
+    FROM RD202412
+)
+GROUP BY
+    N_AIH,
+    ANO_CMPT,
+    MES_CMPT;
+
+
+----02.02 LEITOS_enriched
+
+CREATE TABLE LEITOS_enriched (
+    cod INTEGER,
+    value VARCHAR(64),
+    def_leitos_en VARCHAR(255)
+);
+-- Then the import of the project-derived CSV -LEITOS_enriched (enriched with english description)  from folder-data_enrichment.	

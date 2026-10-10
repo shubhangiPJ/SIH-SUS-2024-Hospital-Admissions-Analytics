@@ -1,0 +1,39 @@
+cod,value,def_leitos_en
+1,Cirúrgico,Surgical
+2,Obstétricos,Obstetric
+3,Clínico,Clinical / Medical
+4,Crônicos,Chronic care
+5,Psiquiatria,Psychiatry
+6,Pneumologia Sanitária (Tisiologia),Public Health Pneumology (Tuberculosis)
+7,Pediátricos,Pediatric
+8,Reabilitação,Rehabilitation
+9,Leito Dia / Cirúrgicos,Day hospital / Surgical
+10,Leito Dia / Aids,Day hospital / AIDS
+11,Leito Dia / Fibrose Cística,Day hospital / Cystic Fibrosis
+12,Leito Dia / Intercorrência Pós-Transplante,Day hospital / Post-transplant care
+13,Leito Dia / Geriatria,Day hospital / Geriatrics
+14,Leito Dia / Saúde Mental,Day hospital / Mental Health
+64,Unidade Intermediária,Intermediate Care Unit
+65,Unidade Intermediária Neonatal,Neonatal Intermediate Care Unit
+74,UTI I,ICU I
+75,UTI Adulto II,Adult ICU II
+76,UTI Adulto III,Adult ICU III
+77,UTI Infantil I,Pediatric ICU I
+78,UTI Infantil II,Pediatric ICU II
+79,UTI Infantil III,Pediatric ICU III
+80,UTI Neonatal I,Neonatal ICU I
+81,UTI Neonatal II,Neonatal ICU II
+82,UTI Neonatal III,Neonatal ICU III
+83,UTI Queimados,Burn ICU
+84,Acolhimento Noturno,Overnight Care
+85,UTI Coronariana-UCO tipo II,Coronary ICU (UCO) Type II
+86,UTI Coronariana-UCO tipo III,Coronary ICU (UCO) Type III
+87,Saúde Mental (Clínico),Mental Health (Clinical)
+88,Queimado Adulto (Clínico),Adult Burn (Clinical)
+89,Queimado Pediátrico (Clínico),Pediatric Burn (Clinical)
+90,Queimado Adulto (Cirúrgico),Adult Burn (Surgical)
+91,Queimado Pediátrico (Cirúrgico),Pediatric Burn (Surgical)
+92,UCI Unidade de Cuidados Intermediários Neonatal Convencional,Conventional Neonatal Intermediate Care Unit
+93,UCI Unidade de Cuidados Intermediários Neonatal Canguru,Kangaroo Neonatal Intermediate Care Unit
+94,UCI Unidade de Cuidados Intermediários Pediátrico,Pediatric Intermediate Care Unit
+95,UCI Unidade de Cuidados Intermediários Adulto,Adult Intermediate Care Unit

@@ -1,0 +1,2561 @@
+icd10_category,icd10_chapter_code,icd10_chapter_label
+A00,01,Certain infectious and parasitic diseases
+A01,01,Certain infectious and parasitic diseases
+A02,01,Certain infectious and parasitic diseases
+A03,01,Certain infectious and parasitic diseases
+A04,01,Certain infectious and parasitic diseases
+A05,01,Certain infectious and parasitic diseases
+A06,01,Certain infectious and parasitic diseases
+A07,01,Certain infectious and parasitic diseases
+A08,01,Certain infectious and parasitic diseases
+A09,01,Certain infectious and parasitic diseases
+A10,01,Certain infectious and parasitic diseases
+A11,01,Certain infectious and parasitic diseases
+A12,01,Certain infectious and parasitic diseases
+A13,01,Certain infectious and parasitic diseases
+A14,01,Certain infectious and parasitic diseases
+A15,01,Certain infectious and parasitic diseases
+A16,01,Certain infectious and parasitic diseases
+A17,01,Certain infectious and parasitic diseases
+A18,01,Certain infectious and parasitic diseases
+A19,01,Certain infectious and parasitic diseases
+A20,01,Certain infectious and parasitic diseases
+A21,01,Certain infectious and parasitic diseases
+A22,01,Certain infectious and parasitic diseases
+A23,01,Certain infectious and parasitic diseases
+A24,01,Certain infectious and parasitic diseases
+A25,01,Certain infectious and parasitic diseases
+A26,01,Certain infectious and parasitic diseases
+A27,01,Certain infectious and parasitic diseases
+A28,01,Certain infectious and parasitic diseases
+A29,01,Certain infectious and parasitic diseases
+A30,01,Certain infectious and parasitic diseases
+A31,01,Certain infectious and parasitic diseases
+A32,01,Certain infectious and parasitic diseases
+A33,01,Certain infectious and parasitic diseases
+A34,01,Certain infectious and parasitic diseases
+A35,01,Certain infectious and parasitic diseases
+A36,01,Certain infectious and parasitic diseases
+A37,01,Certain infectious and parasitic diseases
+A38,01,Certain infectious and parasitic diseases
+A39,01,Certain infectious and parasitic diseases
+A40,01,Certain infectious and parasitic diseases
+A41,01,Certain infectious and parasitic diseases
+A42,01,Certain infectious and parasitic diseases
+A43,01,Certain infectious and parasitic diseases
+A44,01,Certain infectious and parasitic diseases
+A45,01,Certain infectious and parasitic diseases
+A46,01,Certain infectious and parasitic diseases
+A47,01,Certain infectious and parasitic diseases
+A48,01,Certain infectious and parasitic diseases
+A49,01,Certain infectious and parasitic diseases
+A50,01,Certain infectious and parasitic diseases
+A51,01,Certain infectious and parasitic diseases
+A52,01,Certain infectious and parasitic diseases
+A53,01,Certain infectious and parasitic diseases
+A54,01,Certain infectious and parasitic diseases
+A55,01,Certain infectious and parasitic diseases
+A56,01,Certain infectious and parasitic diseases
+A57,01,Certain infectious and parasitic diseases
+A58,01,Certain infectious and parasitic diseases
+A59,01,Certain infectious and parasitic diseases
+A60,01,Certain infectious and parasitic diseases
+A61,01,Certain infectious and parasitic diseases
+A62,01,Certain infectious and parasitic diseases
+A63,01,Certain infectious and parasitic diseases
+A64,01,Certain infectious and parasitic diseases
+A65,01,Certain infectious and parasitic diseases
+A66,01,Certain infectious and parasitic diseases
+A67,01,Certain infectious and parasitic diseases
+A68,01,Certain infectious and parasitic diseases
+A69,01,Certain infectious and parasitic diseases
+A70,01,Certain infectious and parasitic diseases
+A71,01,Certain infectious and parasitic diseases
+A72,01,Certain infectious and parasitic diseases
+A73,01,Certain infectious and parasitic diseases
+A74,01,Certain infectious and parasitic diseases
+A75,01,Certain infectious and parasitic diseases
+A76,01,Certain infectious and parasitic diseases
+A77,01,Certain infectious and parasitic diseases
+A78,01,Certain infectious and parasitic diseases
+A79,01,Certain infectious and parasitic diseases
+A80,01,Certain infectious and parasitic diseases
+A81,01,Certain infectious and parasitic diseases
+A82,01,Certain infectious and parasitic diseases
+A83,01,Certain infectious and parasitic diseases
+A84,01,Certain infectious and parasitic diseases
+A85,01,Certain infectious and parasitic diseases
+A86,01,Certain infectious and parasitic diseases
+A87,01,Certain infectious and parasitic diseases
+A88,01,Certain infectious and parasitic diseases
+A89,01,Certain infectious and parasitic diseases
+A90,01,Certain infectious and parasitic diseases
+A91,01,Certain infectious and parasitic diseases
+A92,01,Certain infectious and parasitic diseases
+A93,01,Certain infectious and parasitic diseases
+A94,01,Certain infectious and parasitic diseases
+A95,01,Certain infectious and parasitic diseases
+A96,01,Certain infectious and parasitic diseases
+A97,01,Certain infectious and parasitic diseases
+A98,01,Certain infectious and parasitic diseases
+A99,01,Certain infectious and parasitic diseases
+B00,01,Certain infectious and parasitic diseases
+B01,01,Certain infectious and parasitic diseases
+B02,01,Certain infectious and parasitic diseases
+B03,01,Certain infectious and parasitic diseases
+B04,01,Certain infectious and parasitic diseases
+B05,01,Certain infectious and parasitic diseases
+B06,01,Certain infectious and parasitic diseases
+B07,01,Certain infectious and parasitic diseases
+B08,01,Certain infectious and parasitic diseases
+B09,01,Certain infectious and parasitic diseases
+B10,01,Certain infectious and parasitic diseases
+B11,01,Certain infectious and parasitic diseases
+B12,01,Certain infectious and parasitic diseases
+B13,01,Certain infectious and parasitic diseases
+B14,01,Certain infectious and parasitic diseases
+B15,01,Certain infectious and parasitic diseases
+B16,01,Certain infectious and parasitic diseases
+B17,01,Certain infectious and parasitic diseases
+B18,01,Certain infectious and parasitic diseases
+B19,01,Certain infectious and parasitic diseases
+B20,01,Certain infectious and parasitic diseases
+B21,01,Certain infectious and parasitic diseases
+B22,01,Certain infectious and parasitic diseases
+B23,01,Certain infectious and parasitic diseases
+B24,01,Certain infectious and parasitic diseases
+B25,01,Certain infectious and parasitic diseases
+B26,01,Certain infectious and parasitic diseases
+B27,01,Certain infectious and parasitic diseases
+B28,01,Certain infectious and parasitic diseases
+B29,01,Certain infectious and parasitic diseases
+B30,01,Certain infectious and parasitic diseases
+B31,01,Certain infectious and parasitic diseases
+B32,01,Certain infectious and parasitic diseases
+B33,01,Certain infectious and parasitic diseases
+B34,01,Certain infectious and parasitic diseases
+B35,01,Certain infectious and parasitic diseases
+B36,01,Certain infectious and parasitic diseases
+B37,01,Certain infectious and parasitic diseases
+B38,01,Certain infectious and parasitic diseases
+B39,01,Certain infectious and parasitic diseases
+B40,01,Certain infectious and parasitic diseases
+B41,01,Certain infectious and parasitic diseases
+B42,01,Certain infectious and parasitic diseases
+B43,01,Certain infectious and parasitic diseases
+B44,01,Certain infectious and parasitic diseases
+B45,01,Certain infectious and parasitic diseases
+B46,01,Certain infectious and parasitic diseases
+B47,01,Certain infectious and parasitic diseases
+B48,01,Certain infectious and parasitic diseases
+B49,01,Certain infectious and parasitic diseases
+B50,01,Certain infectious and parasitic diseases
+B51,01,Certain infectious and parasitic diseases
+B52,01,Certain infectious and parasitic diseases
+B53,01,Certain infectious and parasitic diseases
+B54,01,Certain infectious and parasitic diseases
+B55,01,Certain infectious and parasitic diseases
+B56,01,Certain infectious and parasitic diseases
+B57,01,Certain infectious and parasitic diseases
+B58,01,Certain infectious and parasitic diseases
+B59,01,Certain infectious and parasitic diseases
+B60,01,Certain infectious and parasitic diseases
+B61,01,Certain infectious and parasitic diseases
+B62,01,Certain infectious and parasitic diseases
+B63,01,Certain infectious and parasitic diseases
+B64,01,Certain infectious and parasitic diseases
+B65,01,Certain infectious and parasitic diseases
+B66,01,Certain infectious and parasitic diseases
+B67,01,Certain infectious and parasitic diseases
+B68,01,Certain infectious and parasitic diseases
+B69,01,Certain infectious and parasitic diseases
+B70,01,Certain infectious and parasitic diseases
+B71,01,Certain infectious and parasitic diseases
+B72,01,Certain infectious and parasitic diseases
+B73,01,Certain infectious and parasitic diseases
+B74,01,Certain infectious and parasitic diseases
+B75,01,Certain infectious and parasitic diseases
+B76,01,Certain infectious and parasitic diseases
+B77,01,Certain infectious and parasitic diseases
+B78,01,Certain infectious and parasitic diseases
+B79,01,Certain infectious and parasitic diseases
+B80,01,Certain infectious and parasitic diseases
+B81,01,Certain infectious and parasitic diseases
+B82,01,Certain infectious and parasitic diseases
+B83,01,Certain infectious and parasitic diseases
+B84,01,Certain infectious and parasitic diseases
+B85,01,Certain infectious and parasitic diseases
+B86,01,Certain infectious and parasitic diseases
+B87,01,Certain infectious and parasitic diseases
+B88,01,Certain infectious and parasitic diseases
+B89,01,Certain infectious and parasitic diseases
+B90,01,Certain infectious and parasitic diseases
+B91,01,Certain infectious and parasitic diseases
+B92,01,Certain infectious and parasitic diseases
+B93,01,Certain infectious and parasitic diseases
+B94,01,Certain infectious and parasitic diseases
+B95,01,Certain infectious and parasitic diseases
+B96,01,Certain infectious and parasitic diseases
+B97,01,Certain infectious and parasitic diseases
+B98,01,Certain infectious and parasitic diseases
+B99,01,Certain infectious and parasitic diseases
+C00,02,Neoplasms
+C01,02,Neoplasms
+C02,02,Neoplasms
+C03,02,Neoplasms
+C04,02,Neoplasms
+C05,02,Neoplasms
+C06,02,Neoplasms
+C07,02,Neoplasms
+C08,02,Neoplasms
+C09,02,Neoplasms
+C10,02,Neoplasms
+C11,02,Neoplasms
+C12,02,Neoplasms
+C13,02,Neoplasms
+C14,02,Neoplasms
+C15,02,Neoplasms
+C16,02,Neoplasms
+C17,02,Neoplasms
+C18,02,Neoplasms
+C19,02,Neoplasms
+C20,02,Neoplasms
+C21,02,Neoplasms
+C22,02,Neoplasms
+C23,02,Neoplasms
+C24,02,Neoplasms
+C25,02,Neoplasms
+C26,02,Neoplasms
+C27,02,Neoplasms
+C28,02,Neoplasms
+C29,02,Neoplasms
+C30,02,Neoplasms
+C31,02,Neoplasms
+C32,02,Neoplasms
+C33,02,Neoplasms
+C34,02,Neoplasms
+C35,02,Neoplasms
+C36,02,Neoplasms
+C37,02,Neoplasms
+C38,02,Neoplasms
+C39,02,Neoplasms
+C40,02,Neoplasms
+C41,02,Neoplasms
+C42,02,Neoplasms
+C43,02,Neoplasms
+C44,02,Neoplasms
+C45,02,Neoplasms
+C46,02,Neoplasms
+C47,02,Neoplasms
+C48,02,Neoplasms
+C49,02,Neoplasms
+C50,02,Neoplasms
+C51,02,Neoplasms
+C52,02,Neoplasms
+C53,02,Neoplasms
+C54,02,Neoplasms
+C55,02,Neoplasms
+C56,02,Neoplasms
+C57,02,Neoplasms
+C58,02,Neoplasms
+C59,02,Neoplasms
+C60,02,Neoplasms
+C61,02,Neoplasms
+C62,02,Neoplasms
+C63,02,Neoplasms
+C64,02,Neoplasms
+C65,02,Neoplasms
+C66,02,Neoplasms
+C67,02,Neoplasms
+C68,02,Neoplasms
+C69,02,Neoplasms
+C70,02,Neoplasms
+C71,02,Neoplasms
+C72,02,Neoplasms
+C73,02,Neoplasms
+C74,02,Neoplasms
+C75,02,Neoplasms
+C76,02,Neoplasms
+C77,02,Neoplasms
+C78,02,Neoplasms
+C79,02,Neoplasms
+C80,02,Neoplasms
+C81,02,Neoplasms
+C82,02,Neoplasms
+C83,02,Neoplasms
+C84,02,Neoplasms
+C85,02,Neoplasms
+C86,02,Neoplasms
+C87,02,Neoplasms
+C88,02,Neoplasms
+C89,02,Neoplasms
+C90,02,Neoplasms
+C91,02,Neoplasms
+C92,02,Neoplasms
+C93,02,Neoplasms
+C94,02,Neoplasms
+C95,02,Neoplasms
+C96,02,Neoplasms
+C97,02,Neoplasms
+C98,02,Neoplasms
+C99,02,Neoplasms
+D00,02,Neoplasms
+D01,02,Neoplasms
+D02,02,Neoplasms
+D03,02,Neoplasms
+D04,02,Neoplasms
+D05,02,Neoplasms
+D06,02,Neoplasms
+D07,02,Neoplasms
+D08,02,Neoplasms
+D09,02,Neoplasms
+D10,02,Neoplasms
+D11,02,Neoplasms
+D12,02,Neoplasms
+D13,02,Neoplasms
+D14,02,Neoplasms
+D15,02,Neoplasms
+D16,02,Neoplasms
+D17,02,Neoplasms
+D18,02,Neoplasms
+D19,02,Neoplasms
+D20,02,Neoplasms
+D21,02,Neoplasms
+D22,02,Neoplasms
+D23,02,Neoplasms
+D24,02,Neoplasms
+D25,02,Neoplasms
+D26,02,Neoplasms
+D27,02,Neoplasms
+D28,02,Neoplasms
+D29,02,Neoplasms
+D30,02,Neoplasms
+D31,02,Neoplasms
+D32,02,Neoplasms
+D33,02,Neoplasms
+D34,02,Neoplasms
+D35,02,Neoplasms
+D36,02,Neoplasms
+D37,02,Neoplasms
+D38,02,Neoplasms
+D39,02,Neoplasms
+D40,02,Neoplasms
+D41,02,Neoplasms
+D42,02,Neoplasms
+D43,02,Neoplasms
+D44,02,Neoplasms
+D45,02,Neoplasms
+D46,02,Neoplasms
+D47,02,Neoplasms
+D48,02,Neoplasms
+D50,03,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+D51,03,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+D52,03,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+D53,03,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+D54,03,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+D55,03,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+D56,03,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+D57,03,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+D58,03,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+D59,03,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+D60,03,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+D61,03,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+D62,03,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+D63,03,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+D64,03,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+D65,03,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+D66,03,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+D67,03,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+D68,03,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+D69,03,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+D70,03,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+D71,03,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+D72,03,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+D73,03,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+D74,03,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+D75,03,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+D76,03,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+D77,03,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+D78,03,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+D79,03,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+D80,03,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+D81,03,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+D82,03,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+D83,03,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+D84,03,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+D85,03,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+D86,03,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+D87,03,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+D88,03,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+D89,03,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+E00,04,"Endocrine, nutritional and metabolic diseases"
+E01,04,"Endocrine, nutritional and metabolic diseases"
+E02,04,"Endocrine, nutritional and metabolic diseases"
+E03,04,"Endocrine, nutritional and metabolic diseases"
+E04,04,"Endocrine, nutritional and metabolic diseases"
+E05,04,"Endocrine, nutritional and metabolic diseases"
+E06,04,"Endocrine, nutritional and metabolic diseases"
+E07,04,"Endocrine, nutritional and metabolic diseases"
+E08,04,"Endocrine, nutritional and metabolic diseases"
+E09,04,"Endocrine, nutritional and metabolic diseases"
+E10,04,"Endocrine, nutritional and metabolic diseases"
+E11,04,"Endocrine, nutritional and metabolic diseases"
+E12,04,"Endocrine, nutritional and metabolic diseases"
+E13,04,"Endocrine, nutritional and metabolic diseases"
+E14,04,"Endocrine, nutritional and metabolic diseases"
+E15,04,"Endocrine, nutritional and metabolic diseases"
+E16,04,"Endocrine, nutritional and metabolic diseases"
+E17,04,"Endocrine, nutritional and metabolic diseases"
+E18,04,"Endocrine, nutritional and metabolic diseases"
+E19,04,"Endocrine, nutritional and metabolic diseases"
+E20,04,"Endocrine, nutritional and metabolic diseases"
+E21,04,"Endocrine, nutritional and metabolic diseases"
+E22,04,"Endocrine, nutritional and metabolic diseases"
+E23,04,"Endocrine, nutritional and metabolic diseases"
+E24,04,"Endocrine, nutritional and metabolic diseases"
+E25,04,"Endocrine, nutritional and metabolic diseases"
+E26,04,"Endocrine, nutritional and metabolic diseases"
+E27,04,"Endocrine, nutritional and metabolic diseases"
+E28,04,"Endocrine, nutritional and metabolic diseases"
+E29,04,"Endocrine, nutritional and metabolic diseases"
+E30,04,"Endocrine, nutritional and metabolic diseases"
+E31,04,"Endocrine, nutritional and metabolic diseases"
+E32,04,"Endocrine, nutritional and metabolic diseases"
+E33,04,"Endocrine, nutritional and metabolic diseases"
+E34,04,"Endocrine, nutritional and metabolic diseases"
+E35,04,"Endocrine, nutritional and metabolic diseases"
+E36,04,"Endocrine, nutritional and metabolic diseases"
+E37,04,"Endocrine, nutritional and metabolic diseases"
+E38,04,"Endocrine, nutritional and metabolic diseases"
+E39,04,"Endocrine, nutritional and metabolic diseases"
+E40,04,"Endocrine, nutritional and metabolic diseases"
+E41,04,"Endocrine, nutritional and metabolic diseases"
+E42,04,"Endocrine, nutritional and metabolic diseases"
+E43,04,"Endocrine, nutritional and metabolic diseases"
+E44,04,"Endocrine, nutritional and metabolic diseases"
+E45,04,"Endocrine, nutritional and metabolic diseases"
+E46,04,"Endocrine, nutritional and metabolic diseases"
+E47,04,"Endocrine, nutritional and metabolic diseases"
+E48,04,"Endocrine, nutritional and metabolic diseases"
+E49,04,"Endocrine, nutritional and metabolic diseases"
+E50,04,"Endocrine, nutritional and metabolic diseases"
+E51,04,"Endocrine, nutritional and metabolic diseases"
+E52,04,"Endocrine, nutritional and metabolic diseases"
+E53,04,"Endocrine, nutritional and metabolic diseases"
+E54,04,"Endocrine, nutritional and metabolic diseases"
+E55,04,"Endocrine, nutritional and metabolic diseases"
+E56,04,"Endocrine, nutritional and metabolic diseases"
+E57,04,"Endocrine, nutritional and metabolic diseases"
+E58,04,"Endocrine, nutritional and metabolic diseases"
+E59,04,"Endocrine, nutritional and metabolic diseases"
+E60,04,"Endocrine, nutritional and metabolic diseases"
+E61,04,"Endocrine, nutritional and metabolic diseases"
+E62,04,"Endocrine, nutritional and metabolic diseases"
+E63,04,"Endocrine, nutritional and metabolic diseases"
+E64,04,"Endocrine, nutritional and metabolic diseases"
+E65,04,"Endocrine, nutritional and metabolic diseases"
+E66,04,"Endocrine, nutritional and metabolic diseases"
+E67,04,"Endocrine, nutritional and metabolic diseases"
+E68,04,"Endocrine, nutritional and metabolic diseases"
+E69,04,"Endocrine, nutritional and metabolic diseases"
+E70,04,"Endocrine, nutritional and metabolic diseases"
+E71,04,"Endocrine, nutritional and metabolic diseases"
+E72,04,"Endocrine, nutritional and metabolic diseases"
+E73,04,"Endocrine, nutritional and metabolic diseases"
+E74,04,"Endocrine, nutritional and metabolic diseases"
+E75,04,"Endocrine, nutritional and metabolic diseases"
+E76,04,"Endocrine, nutritional and metabolic diseases"
+E77,04,"Endocrine, nutritional and metabolic diseases"
+E78,04,"Endocrine, nutritional and metabolic diseases"
+E79,04,"Endocrine, nutritional and metabolic diseases"
+E80,04,"Endocrine, nutritional and metabolic diseases"
+E81,04,"Endocrine, nutritional and metabolic diseases"
+E82,04,"Endocrine, nutritional and metabolic diseases"
+E83,04,"Endocrine, nutritional and metabolic diseases"
+E84,04,"Endocrine, nutritional and metabolic diseases"
+E85,04,"Endocrine, nutritional and metabolic diseases"
+E86,04,"Endocrine, nutritional and metabolic diseases"
+E87,04,"Endocrine, nutritional and metabolic diseases"
+E88,04,"Endocrine, nutritional and metabolic diseases"
+E89,04,"Endocrine, nutritional and metabolic diseases"
+E90,04,"Endocrine, nutritional and metabolic diseases"
+F00,05,Mental and behavioural disorders
+F01,05,Mental and behavioural disorders
+F02,05,Mental and behavioural disorders
+F03,05,Mental and behavioural disorders
+F04,05,Mental and behavioural disorders
+F05,05,Mental and behavioural disorders
+F06,05,Mental and behavioural disorders
+F07,05,Mental and behavioural disorders
+F08,05,Mental and behavioural disorders
+F09,05,Mental and behavioural disorders
+F10,05,Mental and behavioural disorders
+F11,05,Mental and behavioural disorders
+F12,05,Mental and behavioural disorders
+F13,05,Mental and behavioural disorders
+F14,05,Mental and behavioural disorders
+F15,05,Mental and behavioural disorders
+F16,05,Mental and behavioural disorders
+F17,05,Mental and behavioural disorders
+F18,05,Mental and behavioural disorders
+F19,05,Mental and behavioural disorders
+F20,05,Mental and behavioural disorders
+F21,05,Mental and behavioural disorders
+F22,05,Mental and behavioural disorders
+F23,05,Mental and behavioural disorders
+F24,05,Mental and behavioural disorders
+F25,05,Mental and behavioural disorders
+F26,05,Mental and behavioural disorders
+F27,05,Mental and behavioural disorders
+F28,05,Mental and behavioural disorders
+F29,05,Mental and behavioural disorders
+F30,05,Mental and behavioural disorders
+F31,05,Mental and behavioural disorders
+F32,05,Mental and behavioural disorders
+F33,05,Mental and behavioural disorders
+F34,05,Mental and behavioural disorders
+F35,05,Mental and behavioural disorders
+F36,05,Mental and behavioural disorders
+F37,05,Mental and behavioural disorders
+F38,05,Mental and behavioural disorders
+F39,05,Mental and behavioural disorders
+F40,05,Mental and behavioural disorders
+F41,05,Mental and behavioural disorders
+F42,05,Mental and behavioural disorders
+F43,05,Mental and behavioural disorders
+F44,05,Mental and behavioural disorders
+F45,05,Mental and behavioural disorders
+F46,05,Mental and behavioural disorders
+F47,05,Mental and behavioural disorders
+F48,05,Mental and behavioural disorders
+F49,05,Mental and behavioural disorders
+F50,05,Mental and behavioural disorders
+F51,05,Mental and behavioural disorders
+F52,05,Mental and behavioural disorders
+F53,05,Mental and behavioural disorders
+F54,05,Mental and behavioural disorders
+F55,05,Mental and behavioural disorders
+F56,05,Mental and behavioural disorders
+F57,05,Mental and behavioural disorders
+F58,05,Mental and behavioural disorders
+F59,05,Mental and behavioural disorders
+F60,05,Mental and behavioural disorders
+F61,05,Mental and behavioural disorders
+F62,05,Mental and behavioural disorders
+F63,05,Mental and behavioural disorders
+F64,05,Mental and behavioural disorders
+F65,05,Mental and behavioural disorders
+F66,05,Mental and behavioural disorders
+F67,05,Mental and behavioural disorders
+F68,05,Mental and behavioural disorders
+F69,05,Mental and behavioural disorders
+F70,05,Mental and behavioural disorders
+F71,05,Mental and behavioural disorders
+F72,05,Mental and behavioural disorders
+F73,05,Mental and behavioural disorders
+F74,05,Mental and behavioural disorders
+F75,05,Mental and behavioural disorders
+F76,05,Mental and behavioural disorders
+F77,05,Mental and behavioural disorders
+F78,05,Mental and behavioural disorders
+F79,05,Mental and behavioural disorders
+F80,05,Mental and behavioural disorders
+F81,05,Mental and behavioural disorders
+F82,05,Mental and behavioural disorders
+F83,05,Mental and behavioural disorders
+F84,05,Mental and behavioural disorders
+F85,05,Mental and behavioural disorders
+F86,05,Mental and behavioural disorders
+F87,05,Mental and behavioural disorders
+F88,05,Mental and behavioural disorders
+F89,05,Mental and behavioural disorders
+F90,05,Mental and behavioural disorders
+F91,05,Mental and behavioural disorders
+F92,05,Mental and behavioural disorders
+F93,05,Mental and behavioural disorders
+F94,05,Mental and behavioural disorders
+F95,05,Mental and behavioural disorders
+F96,05,Mental and behavioural disorders
+F97,05,Mental and behavioural disorders
+F98,05,Mental and behavioural disorders
+F99,05,Mental and behavioural disorders
+G00,06,Diseases of the nervous system
+G01,06,Diseases of the nervous system
+G02,06,Diseases of the nervous system
+G03,06,Diseases of the nervous system
+G04,06,Diseases of the nervous system
+G05,06,Diseases of the nervous system
+G06,06,Diseases of the nervous system
+G07,06,Diseases of the nervous system
+G08,06,Diseases of the nervous system
+G09,06,Diseases of the nervous system
+G10,06,Diseases of the nervous system
+G11,06,Diseases of the nervous system
+G12,06,Diseases of the nervous system
+G13,06,Diseases of the nervous system
+G14,06,Diseases of the nervous system
+G15,06,Diseases of the nervous system
+G16,06,Diseases of the nervous system
+G17,06,Diseases of the nervous system
+G18,06,Diseases of the nervous system
+G19,06,Diseases of the nervous system
+G20,06,Diseases of the nervous system
+G21,06,Diseases of the nervous system
+G22,06,Diseases of the nervous system
+G23,06,Diseases of the nervous system
+G24,06,Diseases of the nervous system
+G25,06,Diseases of the nervous system
+G26,06,Diseases of the nervous system
+G27,06,Diseases of the nervous system
+G28,06,Diseases of the nervous system
+G29,06,Diseases of the nervous system
+G30,06,Diseases of the nervous system
+G31,06,Diseases of the nervous system
+G32,06,Diseases of the nervous system
+G33,06,Diseases of the nervous system
+G34,06,Diseases of the nervous system
+G35,06,Diseases of the nervous system
+G36,06,Diseases of the nervous system
+G37,06,Diseases of the nervous system
+G38,06,Diseases of the nervous system
+G39,06,Diseases of the nervous system
+G40,06,Diseases of the nervous system
+G41,06,Diseases of the nervous system
+G42,06,Diseases of the nervous system
+G43,06,Diseases of the nervous system
+G44,06,Diseases of the nervous system
+G45,06,Diseases of the nervous system
+G46,06,Diseases of the nervous system
+G47,06,Diseases of the nervous system
+G48,06,Diseases of the nervous system
+G49,06,Diseases of the nervous system
+G50,06,Diseases of the nervous system
+G51,06,Diseases of the nervous system
+G52,06,Diseases of the nervous system
+G53,06,Diseases of the nervous system
+G54,06,Diseases of the nervous system
+G55,06,Diseases of the nervous system
+G56,06,Diseases of the nervous system
+G57,06,Diseases of the nervous system
+G58,06,Diseases of the nervous system
+G59,06,Diseases of the nervous system
+G60,06,Diseases of the nervous system
+G61,06,Diseases of the nervous system
+G62,06,Diseases of the nervous system
+G63,06,Diseases of the nervous system
+G64,06,Diseases of the nervous system
+G65,06,Diseases of the nervous system
+G66,06,Diseases of the nervous system
+G67,06,Diseases of the nervous system
+G68,06,Diseases of the nervous system
+G69,06,Diseases of the nervous system
+G70,06,Diseases of the nervous system
+G71,06,Diseases of the nervous system
+G72,06,Diseases of the nervous system
+G73,06,Diseases of the nervous system
+G74,06,Diseases of the nervous system
+G75,06,Diseases of the nervous system
+G76,06,Diseases of the nervous system
+G77,06,Diseases of the nervous system
+G78,06,Diseases of the nervous system
+G79,06,Diseases of the nervous system
+G80,06,Diseases of the nervous system
+G81,06,Diseases of the nervous system
+G82,06,Diseases of the nervous system
+G83,06,Diseases of the nervous system
+G84,06,Diseases of the nervous system
+G85,06,Diseases of the nervous system
+G86,06,Diseases of the nervous system
+G87,06,Diseases of the nervous system
+G88,06,Diseases of the nervous system
+G89,06,Diseases of the nervous system
+G90,06,Diseases of the nervous system
+G91,06,Diseases of the nervous system
+G92,06,Diseases of the nervous system
+G93,06,Diseases of the nervous system
+G94,06,Diseases of the nervous system
+G95,06,Diseases of the nervous system
+G96,06,Diseases of the nervous system
+G97,06,Diseases of the nervous system
+G98,06,Diseases of the nervous system
+G99,06,Diseases of the nervous system
+H00,07,Diseases of the eye and adnexa
+H01,07,Diseases of the eye and adnexa
+H02,07,Diseases of the eye and adnexa
+H03,07,Diseases of the eye and adnexa
+H04,07,Diseases of the eye and adnexa
+H05,07,Diseases of the eye and adnexa
+H06,07,Diseases of the eye and adnexa
+H07,07,Diseases of the eye and adnexa
+H08,07,Diseases of the eye and adnexa
+H09,07,Diseases of the eye and adnexa
+H10,07,Diseases of the eye and adnexa
+H11,07,Diseases of the eye and adnexa
+H12,07,Diseases of the eye and adnexa
+H13,07,Diseases of the eye and adnexa
+H14,07,Diseases of the eye and adnexa
+H15,07,Diseases of the eye and adnexa
+H16,07,Diseases of the eye and adnexa
+H17,07,Diseases of the eye and adnexa
+H18,07,Diseases of the eye and adnexa
+H19,07,Diseases of the eye and adnexa
+H20,07,Diseases of the eye and adnexa
+H21,07,Diseases of the eye and adnexa
+H22,07,Diseases of the eye and adnexa
+H23,07,Diseases of the eye and adnexa
+H24,07,Diseases of the eye and adnexa
+H25,07,Diseases of the eye and adnexa
+H26,07,Diseases of the eye and adnexa
+H27,07,Diseases of the eye and adnexa
+H28,07,Diseases of the eye and adnexa
+H29,07,Diseases of the eye and adnexa
+H30,07,Diseases of the eye and adnexa
+H31,07,Diseases of the eye and adnexa
+H32,07,Diseases of the eye and adnexa
+H33,07,Diseases of the eye and adnexa
+H34,07,Diseases of the eye and adnexa
+H35,07,Diseases of the eye and adnexa
+H36,07,Diseases of the eye and adnexa
+H37,07,Diseases of the eye and adnexa
+H38,07,Diseases of the eye and adnexa
+H39,07,Diseases of the eye and adnexa
+H40,07,Diseases of the eye and adnexa
+H41,07,Diseases of the eye and adnexa
+H42,07,Diseases of the eye and adnexa
+H43,07,Diseases of the eye and adnexa
+H44,07,Diseases of the eye and adnexa
+H45,07,Diseases of the eye and adnexa
+H46,07,Diseases of the eye and adnexa
+H47,07,Diseases of the eye and adnexa
+H48,07,Diseases of the eye and adnexa
+H49,07,Diseases of the eye and adnexa
+H50,07,Diseases of the eye and adnexa
+H51,07,Diseases of the eye and adnexa
+H52,07,Diseases of the eye and adnexa
+H53,07,Diseases of the eye and adnexa
+H54,07,Diseases of the eye and adnexa
+H55,07,Diseases of the eye and adnexa
+H56,07,Diseases of the eye and adnexa
+H57,07,Diseases of the eye and adnexa
+H58,07,Diseases of the eye and adnexa
+H59,07,Diseases of the eye and adnexa
+H60,08,Diseases of the ear and mastoid process
+H61,08,Diseases of the ear and mastoid process
+H62,08,Diseases of the ear and mastoid process
+H63,08,Diseases of the ear and mastoid process
+H64,08,Diseases of the ear and mastoid process
+H65,08,Diseases of the ear and mastoid process
+H66,08,Diseases of the ear and mastoid process
+H67,08,Diseases of the ear and mastoid process
+H68,08,Diseases of the ear and mastoid process
+H69,08,Diseases of the ear and mastoid process
+H70,08,Diseases of the ear and mastoid process
+H71,08,Diseases of the ear and mastoid process
+H72,08,Diseases of the ear and mastoid process
+H73,08,Diseases of the ear and mastoid process
+H74,08,Diseases of the ear and mastoid process
+H75,08,Diseases of the ear and mastoid process
+H76,08,Diseases of the ear and mastoid process
+H77,08,Diseases of the ear and mastoid process
+H78,08,Diseases of the ear and mastoid process
+H79,08,Diseases of the ear and mastoid process
+H80,08,Diseases of the ear and mastoid process
+H81,08,Diseases of the ear and mastoid process
+H82,08,Diseases of the ear and mastoid process
+H83,08,Diseases of the ear and mastoid process
+H84,08,Diseases of the ear and mastoid process
+H85,08,Diseases of the ear and mastoid process
+H86,08,Diseases of the ear and mastoid process
+H87,08,Diseases of the ear and mastoid process
+H88,08,Diseases of the ear and mastoid process
+H89,08,Diseases of the ear and mastoid process
+H90,08,Diseases of the ear and mastoid process
+H91,08,Diseases of the ear and mastoid process
+H92,08,Diseases of the ear and mastoid process
+H93,08,Diseases of the ear and mastoid process
+H94,08,Diseases of the ear and mastoid process
+H95,08,Diseases of the ear and mastoid process
+I00,09,Diseases of the circulatory system
+I01,09,Diseases of the circulatory system
+I02,09,Diseases of the circulatory system
+I03,09,Diseases of the circulatory system
+I04,09,Diseases of the circulatory system
+I05,09,Diseases of the circulatory system
+I06,09,Diseases of the circulatory system
+I07,09,Diseases of the circulatory system
+I08,09,Diseases of the circulatory system
+I09,09,Diseases of the circulatory system
+I10,09,Diseases of the circulatory system
+I11,09,Diseases of the circulatory system
+I12,09,Diseases of the circulatory system
+I13,09,Diseases of the circulatory system
+I14,09,Diseases of the circulatory system
+I15,09,Diseases of the circulatory system
+I16,09,Diseases of the circulatory system
+I17,09,Diseases of the circulatory system
+I18,09,Diseases of the circulatory system
+I19,09,Diseases of the circulatory system
+I20,09,Diseases of the circulatory system
+I21,09,Diseases of the circulatory system
+I22,09,Diseases of the circulatory system
+I23,09,Diseases of the circulatory system
+I24,09,Diseases of the circulatory system
+I25,09,Diseases of the circulatory system
+I26,09,Diseases of the circulatory system
+I27,09,Diseases of the circulatory system
+I28,09,Diseases of the circulatory system
+I29,09,Diseases of the circulatory system
+I30,09,Diseases of the circulatory system
+I31,09,Diseases of the circulatory system
+I32,09,Diseases of the circulatory system
+I33,09,Diseases of the circulatory system
+I34,09,Diseases of the circulatory system
+I35,09,Diseases of the circulatory system
+I36,09,Diseases of the circulatory system
+I37,09,Diseases of the circulatory system
+I38,09,Diseases of the circulatory system
+I39,09,Diseases of the circulatory system
+I40,09,Diseases of the circulatory system
+I41,09,Diseases of the circulatory system
+I42,09,Diseases of the circulatory system
+I43,09,Diseases of the circulatory system
+I44,09,Diseases of the circulatory system
+I45,09,Diseases of the circulatory system
+I46,09,Diseases of the circulatory system
+I47,09,Diseases of the circulatory system
+I48,09,Diseases of the circulatory system
+I49,09,Diseases of the circulatory system
+I50,09,Diseases of the circulatory system
+I51,09,Diseases of the circulatory system
+I52,09,Diseases of the circulatory system
+I53,09,Diseases of the circulatory system
+I54,09,Diseases of the circulatory system
+I55,09,Diseases of the circulatory system
+I56,09,Diseases of the circulatory system
+I57,09,Diseases of the circulatory system
+I58,09,Diseases of the circulatory system
+I59,09,Diseases of the circulatory system
+I60,09,Diseases of the circulatory system
+I61,09,Diseases of the circulatory system
+I62,09,Diseases of the circulatory system
+I63,09,Diseases of the circulatory system
+I64,09,Diseases of the circulatory system
+I65,09,Diseases of the circulatory system
+I66,09,Diseases of the circulatory system
+I67,09,Diseases of the circulatory system
+I68,09,Diseases of the circulatory system
+I69,09,Diseases of the circulatory system
+I70,09,Diseases of the circulatory system
+I71,09,Diseases of the circulatory system
+I72,09,Diseases of the circulatory system
+I73,09,Diseases of the circulatory system
+I74,09,Diseases of the circulatory system
+I75,09,Diseases of the circulatory system
+I76,09,Diseases of the circulatory system
+I77,09,Diseases of the circulatory system
+I78,09,Diseases of the circulatory system
+I79,09,Diseases of the circulatory system
+I80,09,Diseases of the circulatory system
+I81,09,Diseases of the circulatory system
+I82,09,Diseases of the circulatory system
+I83,09,Diseases of the circulatory system
+I84,09,Diseases of the circulatory system
+I85,09,Diseases of the circulatory system
+I86,09,Diseases of the circulatory system
+I87,09,Diseases of the circulatory system
+I88,09,Diseases of the circulatory system
+I89,09,Diseases of the circulatory system
+I90,09,Diseases of the circulatory system
+I91,09,Diseases of the circulatory system
+I92,09,Diseases of the circulatory system
+I93,09,Diseases of the circulatory system
+I94,09,Diseases of the circulatory system
+I95,09,Diseases of the circulatory system
+I96,09,Diseases of the circulatory system
+I97,09,Diseases of the circulatory system
+I98,09,Diseases of the circulatory system
+I99,09,Diseases of the circulatory system
+J00,10,Diseases of the respiratory system
+J01,10,Diseases of the respiratory system
+J02,10,Diseases of the respiratory system
+J03,10,Diseases of the respiratory system
+J04,10,Diseases of the respiratory system
+J05,10,Diseases of the respiratory system
+J06,10,Diseases of the respiratory system
+J07,10,Diseases of the respiratory system
+J08,10,Diseases of the respiratory system
+J09,10,Diseases of the respiratory system
+J10,10,Diseases of the respiratory system
+J11,10,Diseases of the respiratory system
+J12,10,Diseases of the respiratory system
+J13,10,Diseases of the respiratory system
+J14,10,Diseases of the respiratory system
+J15,10,Diseases of the respiratory system
+J16,10,Diseases of the respiratory system
+J17,10,Diseases of the respiratory system
+J18,10,Diseases of the respiratory system
+J19,10,Diseases of the respiratory system
+J20,10,Diseases of the respiratory system
+J21,10,Diseases of the respiratory system
+J22,10,Diseases of the respiratory system
+J23,10,Diseases of the respiratory system
+J24,10,Diseases of the respiratory system
+J25,10,Diseases of the respiratory system
+J26,10,Diseases of the respiratory system
+J27,10,Diseases of the respiratory system
+J28,10,Diseases of the respiratory system
+J29,10,Diseases of the respiratory system
+J30,10,Diseases of the respiratory system
+J31,10,Diseases of the respiratory system
+J32,10,Diseases of the respiratory system
+J33,10,Diseases of the respiratory system
+J34,10,Diseases of the respiratory system
+J35,10,Diseases of the respiratory system
+J36,10,Diseases of the respiratory system
+J37,10,Diseases of the respiratory system
+J38,10,Diseases of the respiratory system
+J39,10,Diseases of the respiratory system
+J40,10,Diseases of the respiratory system
+J41,10,Diseases of the respiratory system
+J42,10,Diseases of the respiratory system
+J43,10,Diseases of the respiratory system
+J44,10,Diseases of the respiratory system
+J45,10,Diseases of the respiratory system
+J46,10,Diseases of the respiratory system
+J47,10,Diseases of the respiratory system
+J48,10,Diseases of the respiratory system
+J49,10,Diseases of the respiratory system
+J50,10,Diseases of the respiratory system
+J51,10,Diseases of the respiratory system
+J52,10,Diseases of the respiratory system
+J53,10,Diseases of the respiratory system
+J54,10,Diseases of the respiratory system
+J55,10,Diseases of the respiratory system
+J56,10,Diseases of the respiratory system
+J57,10,Diseases of the respiratory system
+J58,10,Diseases of the respiratory system
+J59,10,Diseases of the respiratory system
+J60,10,Diseases of the respiratory system
+J61,10,Diseases of the respiratory system
+J62,10,Diseases of the respiratory system
+J63,10,Diseases of the respiratory system
+J64,10,Diseases of the respiratory system
+J65,10,Diseases of the respiratory system
+J66,10,Diseases of the respiratory system
+J67,10,Diseases of the respiratory system
+J68,10,Diseases of the respiratory system
+J69,10,Diseases of the respiratory system
+J70,10,Diseases of the respiratory system
+J71,10,Diseases of the respiratory system
+J72,10,Diseases of the respiratory system
+J73,10,Diseases of the respiratory system
+J74,10,Diseases of the respiratory system
+J75,10,Diseases of the respiratory system
+J76,10,Diseases of the respiratory system
+J77,10,Diseases of the respiratory system
+J78,10,Diseases of the respiratory system
+J79,10,Diseases of the respiratory system
+J80,10,Diseases of the respiratory system
+J81,10,Diseases of the respiratory system
+J82,10,Diseases of the respiratory system
+J83,10,Diseases of the respiratory system
+J84,10,Diseases of the respiratory system
+J85,10,Diseases of the respiratory system
+J86,10,Diseases of the respiratory system
+J87,10,Diseases of the respiratory system
+J88,10,Diseases of the respiratory system
+J89,10,Diseases of the respiratory system
+J90,10,Diseases of the respiratory system
+J91,10,Diseases of the respiratory system
+J92,10,Diseases of the respiratory system
+J93,10,Diseases of the respiratory system
+J94,10,Diseases of the respiratory system
+J95,10,Diseases of the respiratory system
+J96,10,Diseases of the respiratory system
+J97,10,Diseases of the respiratory system
+J98,10,Diseases of the respiratory system
+J99,10,Diseases of the respiratory system
+K00,11,Diseases of the digestive system
+K01,11,Diseases of the digestive system
+K02,11,Diseases of the digestive system
+K03,11,Diseases of the digestive system
+K04,11,Diseases of the digestive system
+K05,11,Diseases of the digestive system
+K06,11,Diseases of the digestive system
+K07,11,Diseases of the digestive system
+K08,11,Diseases of the digestive system
+K09,11,Diseases of the digestive system
+K10,11,Diseases of the digestive system
+K11,11,Diseases of the digestive system
+K12,11,Diseases of the digestive system
+K13,11,Diseases of the digestive system
+K14,11,Diseases of the digestive system
+K15,11,Diseases of the digestive system
+K16,11,Diseases of the digestive system
+K17,11,Diseases of the digestive system
+K18,11,Diseases of the digestive system
+K19,11,Diseases of the digestive system
+K20,11,Diseases of the digestive system
+K21,11,Diseases of the digestive system
+K22,11,Diseases of the digestive system
+K23,11,Diseases of the digestive system
+K24,11,Diseases of the digestive system
+K25,11,Diseases of the digestive system
+K26,11,Diseases of the digestive system
+K27,11,Diseases of the digestive system
+K28,11,Diseases of the digestive system
+K29,11,Diseases of the digestive system
+K30,11,Diseases of the digestive system
+K31,11,Diseases of the digestive system
+K32,11,Diseases of the digestive system
+K33,11,Diseases of the digestive system
+K34,11,Diseases of the digestive system
+K35,11,Diseases of the digestive system
+K36,11,Diseases of the digestive system
+K37,11,Diseases of the digestive system
+K38,11,Diseases of the digestive system
+K39,11,Diseases of the digestive system
+K40,11,Diseases of the digestive system
+K41,11,Diseases of the digestive system
+K42,11,Diseases of the digestive system
+K43,11,Diseases of the digestive system
+K44,11,Diseases of the digestive system
+K45,11,Diseases of the digestive system
+K46,11,Diseases of the digestive system
+K47,11,Diseases of the digestive system
+K48,11,Diseases of the digestive system
+K49,11,Diseases of the digestive system
+K50,11,Diseases of the digestive system
+K51,11,Diseases of the digestive system
+K52,11,Diseases of the digestive system
+K53,11,Diseases of the digestive system
+K54,11,Diseases of the digestive system
+K55,11,Diseases of the digestive system
+K56,11,Diseases of the digestive system
+K57,11,Diseases of the digestive system
+K58,11,Diseases of the digestive system
+K59,11,Diseases of the digestive system
+K60,11,Diseases of the digestive system
+K61,11,Diseases of the digestive system
+K62,11,Diseases of the digestive system
+K63,11,Diseases of the digestive system
+K64,11,Diseases of the digestive system
+K65,11,Diseases of the digestive system
+K66,11,Diseases of the digestive system
+K67,11,Diseases of the digestive system
+K68,11,Diseases of the digestive system
+K69,11,Diseases of the digestive system
+K70,11,Diseases of the digestive system
+K71,11,Diseases of the digestive system
+K72,11,Diseases of the digestive system
+K73,11,Diseases of the digestive system
+K74,11,Diseases of the digestive system
+K75,11,Diseases of the digestive system
+K76,11,Diseases of the digestive system
+K77,11,Diseases of the digestive system
+K78,11,Diseases of the digestive system
+K79,11,Diseases of the digestive system
+K80,11,Diseases of the digestive system
+K81,11,Diseases of the digestive system
+K82,11,Diseases of the digestive system
+K83,11,Diseases of the digestive system
+K84,11,Diseases of the digestive system
+K85,11,Diseases of the digestive system
+K86,11,Diseases of the digestive system
+K87,11,Diseases of the digestive system
+K88,11,Diseases of the digestive system
+K89,11,Diseases of the digestive system
+K90,11,Diseases of the digestive system
+K91,11,Diseases of the digestive system
+K92,11,Diseases of the digestive system
+K93,11,Diseases of the digestive system
+L00,12,Diseases of the skin and subcutaneous tissue
+L01,12,Diseases of the skin and subcutaneous tissue
+L02,12,Diseases of the skin and subcutaneous tissue
+L03,12,Diseases of the skin and subcutaneous tissue
+L04,12,Diseases of the skin and subcutaneous tissue
+L05,12,Diseases of the skin and subcutaneous tissue
+L06,12,Diseases of the skin and subcutaneous tissue
+L07,12,Diseases of the skin and subcutaneous tissue
+L08,12,Diseases of the skin and subcutaneous tissue
+L09,12,Diseases of the skin and subcutaneous tissue
+L10,12,Diseases of the skin and subcutaneous tissue
+L11,12,Diseases of the skin and subcutaneous tissue
+L12,12,Diseases of the skin and subcutaneous tissue
+L13,12,Diseases of the skin and subcutaneous tissue
+L14,12,Diseases of the skin and subcutaneous tissue
+L15,12,Diseases of the skin and subcutaneous tissue
+L16,12,Diseases of the skin and subcutaneous tissue
+L17,12,Diseases of the skin and subcutaneous tissue
+L18,12,Diseases of the skin and subcutaneous tissue
+L19,12,Diseases of the skin and subcutaneous tissue
+L20,12,Diseases of the skin and subcutaneous tissue
+L21,12,Diseases of the skin and subcutaneous tissue
+L22,12,Diseases of the skin and subcutaneous tissue
+L23,12,Diseases of the skin and subcutaneous tissue
+L24,12,Diseases of the skin and subcutaneous tissue
+L25,12,Diseases of the skin and subcutaneous tissue
+L26,12,Diseases of the skin and subcutaneous tissue
+L27,12,Diseases of the skin and subcutaneous tissue
+L28,12,Diseases of the skin and subcutaneous tissue
+L29,12,Diseases of the skin and subcutaneous tissue
+L30,12,Diseases of the skin and subcutaneous tissue
+L31,12,Diseases of the skin and subcutaneous tissue
+L32,12,Diseases of the skin and subcutaneous tissue
+L33,12,Diseases of the skin and subcutaneous tissue
+L34,12,Diseases of the skin and subcutaneous tissue
+L35,12,Diseases of the skin and subcutaneous tissue
+L36,12,Diseases of the skin and subcutaneous tissue
+L37,12,Diseases of the skin and subcutaneous tissue
+L38,12,Diseases of the skin and subcutaneous tissue
+L39,12,Diseases of the skin and subcutaneous tissue
+L40,12,Diseases of the skin and subcutaneous tissue
+L41,12,Diseases of the skin and subcutaneous tissue
+L42,12,Diseases of the skin and subcutaneous tissue
+L43,12,Diseases of the skin and subcutaneous tissue
+L44,12,Diseases of the skin and subcutaneous tissue
+L45,12,Diseases of the skin and subcutaneous tissue
+L46,12,Diseases of the skin and subcutaneous tissue
+L47,12,Diseases of the skin and subcutaneous tissue
+L48,12,Diseases of the skin and subcutaneous tissue
+L49,12,Diseases of the skin and subcutaneous tissue
+L50,12,Diseases of the skin and subcutaneous tissue
+L51,12,Diseases of the skin and subcutaneous tissue
+L52,12,Diseases of the skin and subcutaneous tissue
+L53,12,Diseases of the skin and subcutaneous tissue
+L54,12,Diseases of the skin and subcutaneous tissue
+L55,12,Diseases of the skin and subcutaneous tissue
+L56,12,Diseases of the skin and subcutaneous tissue
+L57,12,Diseases of the skin and subcutaneous tissue
+L58,12,Diseases of the skin and subcutaneous tissue
+L59,12,Diseases of the skin and subcutaneous tissue
+L60,12,Diseases of the skin and subcutaneous tissue
+L61,12,Diseases of the skin and subcutaneous tissue
+L62,12,Diseases of the skin and subcutaneous tissue
+L63,12,Diseases of the skin and subcutaneous tissue
+L64,12,Diseases of the skin and subcutaneous tissue
+L65,12,Diseases of the skin and subcutaneous tissue
+L66,12,Diseases of the skin and subcutaneous tissue
+L67,12,Diseases of the skin and subcutaneous tissue
+L68,12,Diseases of the skin and subcutaneous tissue
+L69,12,Diseases of the skin and subcutaneous tissue
+L70,12,Diseases of the skin and subcutaneous tissue
+L71,12,Diseases of the skin and subcutaneous tissue
+L72,12,Diseases of the skin and subcutaneous tissue
+L73,12,Diseases of the skin and subcutaneous tissue
+L74,12,Diseases of the skin and subcutaneous tissue
+L75,12,Diseases of the skin and subcutaneous tissue
+L76,12,Diseases of the skin and subcutaneous tissue
+L77,12,Diseases of the skin and subcutaneous tissue
+L78,12,Diseases of the skin and subcutaneous tissue
+L79,12,Diseases of the skin and subcutaneous tissue
+L80,12,Diseases of the skin and subcutaneous tissue
+L81,12,Diseases of the skin and subcutaneous tissue
+L82,12,Diseases of the skin and subcutaneous tissue
+L83,12,Diseases of the skin and subcutaneous tissue
+L84,12,Diseases of the skin and subcutaneous tissue
+L85,12,Diseases of the skin and subcutaneous tissue
+L86,12,Diseases of the skin and subcutaneous tissue
+L87,12,Diseases of the skin and subcutaneous tissue
+L88,12,Diseases of the skin and subcutaneous tissue
+L89,12,Diseases of the skin and subcutaneous tissue
+L90,12,Diseases of the skin and subcutaneous tissue
+L91,12,Diseases of the skin and subcutaneous tissue
+L92,12,Diseases of the skin and subcutaneous tissue
+L93,12,Diseases of the skin and subcutaneous tissue
+L94,12,Diseases of the skin and subcutaneous tissue
+L95,12,Diseases of the skin and subcutaneous tissue
+L96,12,Diseases of the skin and subcutaneous tissue
+L97,12,Diseases of the skin and subcutaneous tissue
+L98,12,Diseases of the skin and subcutaneous tissue
+L99,12,Diseases of the skin and subcutaneous tissue
+M00,13,Diseases of the musculoskeletal system and connective tissue
+M01,13,Diseases of the musculoskeletal system and connective tissue
+M02,13,Diseases of the musculoskeletal system and connective tissue
+M03,13,Diseases of the musculoskeletal system and connective tissue
+M04,13,Diseases of the musculoskeletal system and connective tissue
+M05,13,Diseases of the musculoskeletal system and connective tissue
+M06,13,Diseases of the musculoskeletal system and connective tissue
+M07,13,Diseases of the musculoskeletal system and connective tissue
+M08,13,Diseases of the musculoskeletal system and connective tissue
+M09,13,Diseases of the musculoskeletal system and connective tissue
+M10,13,Diseases of the musculoskeletal system and connective tissue
+M11,13,Diseases of the musculoskeletal system and connective tissue
+M12,13,Diseases of the musculoskeletal system and connective tissue
+M13,13,Diseases of the musculoskeletal system and connective tissue
+M14,13,Diseases of the musculoskeletal system and connective tissue
+M15,13,Diseases of the musculoskeletal system and connective tissue
+M16,13,Diseases of the musculoskeletal system and connective tissue
+M17,13,Diseases of the musculoskeletal system and connective tissue
+M18,13,Diseases of the musculoskeletal system and connective tissue
+M19,13,Diseases of the musculoskeletal system and connective tissue
+M20,13,Diseases of the musculoskeletal system and connective tissue
+M21,13,Diseases of the musculoskeletal system and connective tissue
+M22,13,Diseases of the musculoskeletal system and connective tissue
+M23,13,Diseases of the musculoskeletal system and connective tissue
+M24,13,Diseases of the musculoskeletal system and connective tissue
+M25,13,Diseases of the musculoskeletal system and connective tissue
+M26,13,Diseases of the musculoskeletal system and connective tissue
+M27,13,Diseases of the musculoskeletal system and connective tissue
+M28,13,Diseases of the musculoskeletal system and connective tissue
+M29,13,Diseases of the musculoskeletal system and connective tissue
+M30,13,Diseases of the musculoskeletal system and connective tissue
+M31,13,Diseases of the musculoskeletal system and connective tissue
+M32,13,Diseases of the musculoskeletal system and connective tissue
+M33,13,Diseases of the musculoskeletal system and connective tissue
+M34,13,Diseases of the musculoskeletal system and connective tissue
+M35,13,Diseases of the musculoskeletal system and connective tissue
+M36,13,Diseases of the musculoskeletal system and connective tissue
+M37,13,Diseases of the musculoskeletal system and connective tissue
+M38,13,Diseases of the musculoskeletal system and connective tissue
+M39,13,Diseases of the musculoskeletal system and connective tissue
+M40,13,Diseases of the musculoskeletal system and connective tissue
+M41,13,Diseases of the musculoskeletal system and connective tissue
+M42,13,Diseases of the musculoskeletal system and connective tissue
+M43,13,Diseases of the musculoskeletal system and connective tissue
+M44,13,Diseases of the musculoskeletal system and connective tissue
+M45,13,Diseases of the musculoskeletal system and connective tissue
+M46,13,Diseases of the musculoskeletal system and connective tissue
+M47,13,Diseases of the musculoskeletal system and connective tissue
+M48,13,Diseases of the musculoskeletal system and connective tissue
+M49,13,Diseases of the musculoskeletal system and connective tissue
+M50,13,Diseases of the musculoskeletal system and connective tissue
+M51,13,Diseases of the musculoskeletal system and connective tissue
+M52,13,Diseases of the musculoskeletal system and connective tissue
+M53,13,Diseases of the musculoskeletal system and connective tissue
+M54,13,Diseases of the musculoskeletal system and connective tissue
+M55,13,Diseases of the musculoskeletal system and connective tissue
+M56,13,Diseases of the musculoskeletal system and connective tissue
+M57,13,Diseases of the musculoskeletal system and connective tissue
+M58,13,Diseases of the musculoskeletal system and connective tissue
+M59,13,Diseases of the musculoskeletal system and connective tissue
+M60,13,Diseases of the musculoskeletal system and connective tissue
+M61,13,Diseases of the musculoskeletal system and connective tissue
+M62,13,Diseases of the musculoskeletal system and connective tissue
+M63,13,Diseases of the musculoskeletal system and connective tissue
+M64,13,Diseases of the musculoskeletal system and connective tissue
+M65,13,Diseases of the musculoskeletal system and connective tissue
+M66,13,Diseases of the musculoskeletal system and connective tissue
+M67,13,Diseases of the musculoskeletal system and connective tissue
+M68,13,Diseases of the musculoskeletal system and connective tissue
+M69,13,Diseases of the musculoskeletal system and connective tissue
+M70,13,Diseases of the musculoskeletal system and connective tissue
+M71,13,Diseases of the musculoskeletal system and connective tissue
+M72,13,Diseases of the musculoskeletal system and connective tissue
+M73,13,Diseases of the musculoskeletal system and connective tissue
+M74,13,Diseases of the musculoskeletal system and connective tissue
+M75,13,Diseases of the musculoskeletal system and connective tissue
+M76,13,Diseases of the musculoskeletal system and connective tissue
+M77,13,Diseases of the musculoskeletal system and connective tissue
+M78,13,Diseases of the musculoskeletal system and connective tissue
+M79,13,Diseases of the musculoskeletal system and connective tissue
+M80,13,Diseases of the musculoskeletal system and connective tissue
+M81,13,Diseases of the musculoskeletal system and connective tissue
+M82,13,Diseases of the musculoskeletal system and connective tissue
+M83,13,Diseases of the musculoskeletal system and connective tissue
+M84,13,Diseases of the musculoskeletal system and connective tissue
+M85,13,Diseases of the musculoskeletal system and connective tissue
+M86,13,Diseases of the musculoskeletal system and connective tissue
+M87,13,Diseases of the musculoskeletal system and connective tissue
+M88,13,Diseases of the musculoskeletal system and connective tissue
+M89,13,Diseases of the musculoskeletal system and connective tissue
+M90,13,Diseases of the musculoskeletal system and connective tissue
+M91,13,Diseases of the musculoskeletal system and connective tissue
+M92,13,Diseases of the musculoskeletal system and connective tissue
+M93,13,Diseases of the musculoskeletal system and connective tissue
+M94,13,Diseases of the musculoskeletal system and connective tissue
+M95,13,Diseases of the musculoskeletal system and connective tissue
+M96,13,Diseases of the musculoskeletal system and connective tissue
+M97,13,Diseases of the musculoskeletal system and connective tissue
+M98,13,Diseases of the musculoskeletal system and connective tissue
+M99,13,Diseases of the musculoskeletal system and connective tissue
+N00,14,Diseases of the genitourinary system
+N01,14,Diseases of the genitourinary system
+N02,14,Diseases of the genitourinary system
+N03,14,Diseases of the genitourinary system
+N04,14,Diseases of the genitourinary system
+N05,14,Diseases of the genitourinary system
+N06,14,Diseases of the genitourinary system
+N07,14,Diseases of the genitourinary system
+N08,14,Diseases of the genitourinary system
+N09,14,Diseases of the genitourinary system
+N10,14,Diseases of the genitourinary system
+N11,14,Diseases of the genitourinary system
+N12,14,Diseases of the genitourinary system
+N13,14,Diseases of the genitourinary system
+N14,14,Diseases of the genitourinary system
+N15,14,Diseases of the genitourinary system
+N16,14,Diseases of the genitourinary system
+N17,14,Diseases of the genitourinary system
+N18,14,Diseases of the genitourinary system
+N19,14,Diseases of the genitourinary system
+N20,14,Diseases of the genitourinary system
+N21,14,Diseases of the genitourinary system
+N22,14,Diseases of the genitourinary system
+N23,14,Diseases of the genitourinary system
+N24,14,Diseases of the genitourinary system
+N25,14,Diseases of the genitourinary system
+N26,14,Diseases of the genitourinary system
+N27,14,Diseases of the genitourinary system
+N28,14,Diseases of the genitourinary system
+N29,14,Diseases of the genitourinary system
+N30,14,Diseases of the genitourinary system
+N31,14,Diseases of the genitourinary system
+N32,14,Diseases of the genitourinary system
+N33,14,Diseases of the genitourinary system
+N34,14,Diseases of the genitourinary system
+N35,14,Diseases of the genitourinary system
+N36,14,Diseases of the genitourinary system
+N37,14,Diseases of the genitourinary system
+N38,14,Diseases of the genitourinary system
+N39,14,Diseases of the genitourinary system
+N40,14,Diseases of the genitourinary system
+N41,14,Diseases of the genitourinary system
+N42,14,Diseases of the genitourinary system
+N43,14,Diseases of the genitourinary system
+N44,14,Diseases of the genitourinary system
+N45,14,Diseases of the genitourinary system
+N46,14,Diseases of the genitourinary system
+N47,14,Diseases of the genitourinary system
+N48,14,Diseases of the genitourinary system
+N49,14,Diseases of the genitourinary system
+N50,14,Diseases of the genitourinary system
+N51,14,Diseases of the genitourinary system
+N52,14,Diseases of the genitourinary system
+N53,14,Diseases of the genitourinary system
+N54,14,Diseases of the genitourinary system
+N55,14,Diseases of the genitourinary system
+N56,14,Diseases of the genitourinary system
+N57,14,Diseases of the genitourinary system
+N58,14,Diseases of the genitourinary system
+N59,14,Diseases of the genitourinary system
+N60,14,Diseases of the genitourinary system
+N61,14,Diseases of the genitourinary system
+N62,14,Diseases of the genitourinary system
+N63,14,Diseases of the genitourinary system
+N64,14,Diseases of the genitourinary system
+N65,14,Diseases of the genitourinary system
+N66,14,Diseases of the genitourinary system
+N67,14,Diseases of the genitourinary system
+N68,14,Diseases of the genitourinary system
+N69,14,Diseases of the genitourinary system
+N70,14,Diseases of the genitourinary system
+N71,14,Diseases of the genitourinary system
+N72,14,Diseases of the genitourinary system
+N73,14,Diseases of the genitourinary system
+N74,14,Diseases of the genitourinary system
+N75,14,Diseases of the genitourinary system
+N76,14,Diseases of the genitourinary system
+N77,14,Diseases of the genitourinary system
+N78,14,Diseases of the genitourinary system
+N79,14,Diseases of the genitourinary system
+N80,14,Diseases of the genitourinary system
+N81,14,Diseases of the genitourinary system
+N82,14,Diseases of the genitourinary system
+N83,14,Diseases of the genitourinary system
+N84,14,Diseases of the genitourinary system
+N85,14,Diseases of the genitourinary system
+N86,14,Diseases of the genitourinary system
+N87,14,Diseases of the genitourinary system
+N88,14,Diseases of the genitourinary system
+N89,14,Diseases of the genitourinary system
+N90,14,Diseases of the genitourinary system
+N91,14,Diseases of the genitourinary system
+N92,14,Diseases of the genitourinary system
+N93,14,Diseases of the genitourinary system
+N94,14,Diseases of the genitourinary system
+N95,14,Diseases of the genitourinary system
+N96,14,Diseases of the genitourinary system
+N97,14,Diseases of the genitourinary system
+N98,14,Diseases of the genitourinary system
+N99,14,Diseases of the genitourinary system
+O00,15,"Pregnancy, childbirth and the puerperium"
+O01,15,"Pregnancy, childbirth and the puerperium"
+O02,15,"Pregnancy, childbirth and the puerperium"
+O03,15,"Pregnancy, childbirth and the puerperium"
+O04,15,"Pregnancy, childbirth and the puerperium"
+O05,15,"Pregnancy, childbirth and the puerperium"
+O06,15,"Pregnancy, childbirth and the puerperium"
+O07,15,"Pregnancy, childbirth and the puerperium"
+O08,15,"Pregnancy, childbirth and the puerperium"
+O09,15,"Pregnancy, childbirth and the puerperium"
+O10,15,"Pregnancy, childbirth and the puerperium"
+O11,15,"Pregnancy, childbirth and the puerperium"
+O12,15,"Pregnancy, childbirth and the puerperium"
+O13,15,"Pregnancy, childbirth and the puerperium"
+O14,15,"Pregnancy, childbirth and the puerperium"
+O15,15,"Pregnancy, childbirth and the puerperium"
+O16,15,"Pregnancy, childbirth and the puerperium"
+O17,15,"Pregnancy, childbirth and the puerperium"
+O18,15,"Pregnancy, childbirth and the puerperium"
+O19,15,"Pregnancy, childbirth and the puerperium"
+O20,15,"Pregnancy, childbirth and the puerperium"
+O21,15,"Pregnancy, childbirth and the puerperium"
+O22,15,"Pregnancy, childbirth and the puerperium"
+O23,15,"Pregnancy, childbirth and the puerperium"
+O24,15,"Pregnancy, childbirth and the puerperium"
+O25,15,"Pregnancy, childbirth and the puerperium"
+O26,15,"Pregnancy, childbirth and the puerperium"
+O27,15,"Pregnancy, childbirth and the puerperium"
+O28,15,"Pregnancy, childbirth and the puerperium"
+O29,15,"Pregnancy, childbirth and the puerperium"
+O30,15,"Pregnancy, childbirth and the puerperium"
+O31,15,"Pregnancy, childbirth and the puerperium"
+O32,15,"Pregnancy, childbirth and the puerperium"
+O33,15,"Pregnancy, childbirth and the puerperium"
+O34,15,"Pregnancy, childbirth and the puerperium"
+O35,15,"Pregnancy, childbirth and the puerperium"
+O36,15,"Pregnancy, childbirth and the puerperium"
+O37,15,"Pregnancy, childbirth and the puerperium"
+O38,15,"Pregnancy, childbirth and the puerperium"
+O39,15,"Pregnancy, childbirth and the puerperium"
+O40,15,"Pregnancy, childbirth and the puerperium"
+O41,15,"Pregnancy, childbirth and the puerperium"
+O42,15,"Pregnancy, childbirth and the puerperium"
+O43,15,"Pregnancy, childbirth and the puerperium"
+O44,15,"Pregnancy, childbirth and the puerperium"
+O45,15,"Pregnancy, childbirth and the puerperium"
+O46,15,"Pregnancy, childbirth and the puerperium"
+O47,15,"Pregnancy, childbirth and the puerperium"
+O48,15,"Pregnancy, childbirth and the puerperium"
+O49,15,"Pregnancy, childbirth and the puerperium"
+O50,15,"Pregnancy, childbirth and the puerperium"
+O51,15,"Pregnancy, childbirth and the puerperium"
+O52,15,"Pregnancy, childbirth and the puerperium"
+O53,15,"Pregnancy, childbirth and the puerperium"
+O54,15,"Pregnancy, childbirth and the puerperium"
+O55,15,"Pregnancy, childbirth and the puerperium"
+O56,15,"Pregnancy, childbirth and the puerperium"
+O57,15,"Pregnancy, childbirth and the puerperium"
+O58,15,"Pregnancy, childbirth and the puerperium"
+O59,15,"Pregnancy, childbirth and the puerperium"
+O60,15,"Pregnancy, childbirth and the puerperium"
+O61,15,"Pregnancy, childbirth and the puerperium"
+O62,15,"Pregnancy, childbirth and the puerperium"
+O63,15,"Pregnancy, childbirth and the puerperium"
+O64,15,"Pregnancy, childbirth and the puerperium"
+O65,15,"Pregnancy, childbirth and the puerperium"
+O66,15,"Pregnancy, childbirth and the puerperium"
+O67,15,"Pregnancy, childbirth and the puerperium"
+O68,15,"Pregnancy, childbirth and the puerperium"
+O69,15,"Pregnancy, childbirth and the puerperium"
+O70,15,"Pregnancy, childbirth and the puerperium"
+O71,15,"Pregnancy, childbirth and the puerperium"
+O72,15,"Pregnancy, childbirth and the puerperium"
+O73,15,"Pregnancy, childbirth and the puerperium"
+O74,15,"Pregnancy, childbirth and the puerperium"
+O75,15,"Pregnancy, childbirth and the puerperium"
+O76,15,"Pregnancy, childbirth and the puerperium"
+O77,15,"Pregnancy, childbirth and the puerperium"
+O78,15,"Pregnancy, childbirth and the puerperium"
+O79,15,"Pregnancy, childbirth and the puerperium"
+O80,15,"Pregnancy, childbirth and the puerperium"
+O81,15,"Pregnancy, childbirth and the puerperium"
+O82,15,"Pregnancy, childbirth and the puerperium"
+O83,15,"Pregnancy, childbirth and the puerperium"
+O84,15,"Pregnancy, childbirth and the puerperium"
+O85,15,"Pregnancy, childbirth and the puerperium"
+O86,15,"Pregnancy, childbirth and the puerperium"
+O87,15,"Pregnancy, childbirth and the puerperium"
+O88,15,"Pregnancy, childbirth and the puerperium"
+O89,15,"Pregnancy, childbirth and the puerperium"
+O90,15,"Pregnancy, childbirth and the puerperium"
+O91,15,"Pregnancy, childbirth and the puerperium"
+O92,15,"Pregnancy, childbirth and the puerperium"
+O93,15,"Pregnancy, childbirth and the puerperium"
+O94,15,"Pregnancy, childbirth and the puerperium"
+O95,15,"Pregnancy, childbirth and the puerperium"
+O96,15,"Pregnancy, childbirth and the puerperium"
+O97,15,"Pregnancy, childbirth and the puerperium"
+O98,15,"Pregnancy, childbirth and the puerperium"
+O99,15,"Pregnancy, childbirth and the puerperium"
+P00,16,Certain conditions originating in the perinatal period
+P01,16,Certain conditions originating in the perinatal period
+P02,16,Certain conditions originating in the perinatal period
+P03,16,Certain conditions originating in the perinatal period
+P04,16,Certain conditions originating in the perinatal period
+P05,16,Certain conditions originating in the perinatal period
+P06,16,Certain conditions originating in the perinatal period
+P07,16,Certain conditions originating in the perinatal period
+P08,16,Certain conditions originating in the perinatal period
+P09,16,Certain conditions originating in the perinatal period
+P10,16,Certain conditions originating in the perinatal period
+P11,16,Certain conditions originating in the perinatal period
+P12,16,Certain conditions originating in the perinatal period
+P13,16,Certain conditions originating in the perinatal period
+P14,16,Certain conditions originating in the perinatal period
+P15,16,Certain conditions originating in the perinatal period
+P16,16,Certain conditions originating in the perinatal period
+P17,16,Certain conditions originating in the perinatal period
+P18,16,Certain conditions originating in the perinatal period
+P19,16,Certain conditions originating in the perinatal period
+P20,16,Certain conditions originating in the perinatal period
+P21,16,Certain conditions originating in the perinatal period
+P22,16,Certain conditions originating in the perinatal period
+P23,16,Certain conditions originating in the perinatal period
+P24,16,Certain conditions originating in the perinatal period
+P25,16,Certain conditions originating in the perinatal period
+P26,16,Certain conditions originating in the perinatal period
+P27,16,Certain conditions originating in the perinatal period
+P28,16,Certain conditions originating in the perinatal period
+P29,16,Certain conditions originating in the perinatal period
+P30,16,Certain conditions originating in the perinatal period
+P31,16,Certain conditions originating in the perinatal period
+P32,16,Certain conditions originating in the perinatal period
+P33,16,Certain conditions originating in the perinatal period
+P34,16,Certain conditions originating in the perinatal period
+P35,16,Certain conditions originating in the perinatal period
+P36,16,Certain conditions originating in the perinatal period
+P37,16,Certain conditions originating in the perinatal period
+P38,16,Certain conditions originating in the perinatal period
+P39,16,Certain conditions originating in the perinatal period
+P40,16,Certain conditions originating in the perinatal period
+P41,16,Certain conditions originating in the perinatal period
+P42,16,Certain conditions originating in the perinatal period
+P43,16,Certain conditions originating in the perinatal period
+P44,16,Certain conditions originating in the perinatal period
+P45,16,Certain conditions originating in the perinatal period
+P46,16,Certain conditions originating in the perinatal period
+P47,16,Certain conditions originating in the perinatal period
+P48,16,Certain conditions originating in the perinatal period
+P49,16,Certain conditions originating in the perinatal period
+P50,16,Certain conditions originating in the perinatal period
+P51,16,Certain conditions originating in the perinatal period
+P52,16,Certain conditions originating in the perinatal period
+P53,16,Certain conditions originating in the perinatal period
+P54,16,Certain conditions originating in the perinatal period
+P55,16,Certain conditions originating in the perinatal period
+P56,16,Certain conditions originating in the perinatal period
+P57,16,Certain conditions originating in the perinatal period
+P58,16,Certain conditions originating in the perinatal period
+P59,16,Certain conditions originating in the perinatal period
+P60,16,Certain conditions originating in the perinatal period
+P61,16,Certain conditions originating in the perinatal period
+P62,16,Certain conditions originating in the perinatal period
+P63,16,Certain conditions originating in the perinatal period
+P64,16,Certain conditions originating in the perinatal period
+P65,16,Certain conditions originating in the perinatal period
+P66,16,Certain conditions originating in the perinatal period
+P67,16,Certain conditions originating in the perinatal period
+P68,16,Certain conditions originating in the perinatal period
+P69,16,Certain conditions originating in the perinatal period
+P70,16,Certain conditions originating in the perinatal period
+P71,16,Certain conditions originating in the perinatal period
+P72,16,Certain conditions originating in the perinatal period
+P73,16,Certain conditions originating in the perinatal period
+P74,16,Certain conditions originating in the perinatal period
+P75,16,Certain conditions originating in the perinatal period
+P76,16,Certain conditions originating in the perinatal period
+P77,16,Certain conditions originating in the perinatal period
+P78,16,Certain conditions originating in the perinatal period
+P79,16,Certain conditions originating in the perinatal period
+P80,16,Certain conditions originating in the perinatal period
+P81,16,Certain conditions originating in the perinatal period
+P82,16,Certain conditions originating in the perinatal period
+P83,16,Certain conditions originating in the perinatal period
+P84,16,Certain conditions originating in the perinatal period
+P85,16,Certain conditions originating in the perinatal period
+P86,16,Certain conditions originating in the perinatal period
+P87,16,Certain conditions originating in the perinatal period
+P88,16,Certain conditions originating in the perinatal period
+P89,16,Certain conditions originating in the perinatal period
+P90,16,Certain conditions originating in the perinatal period
+P91,16,Certain conditions originating in the perinatal period
+P92,16,Certain conditions originating in the perinatal period
+P93,16,Certain conditions originating in the perinatal period
+P94,16,Certain conditions originating in the perinatal period
+P95,16,Certain conditions originating in the perinatal period
+P96,16,Certain conditions originating in the perinatal period
+Q00,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q01,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q02,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q03,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q04,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q05,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q06,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q07,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q08,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q09,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q10,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q11,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q12,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q13,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q14,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q15,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q16,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q17,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q18,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q19,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q20,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q21,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q22,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q23,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q24,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q25,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q26,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q27,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q28,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q29,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q30,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q31,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q32,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q33,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q34,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q35,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q36,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q37,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q38,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q39,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q40,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q41,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q42,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q43,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q44,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q45,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q46,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q47,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q48,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q49,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q50,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q51,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q52,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q53,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q54,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q55,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q56,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q57,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q58,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q59,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q60,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q61,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q62,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q63,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q64,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q65,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q66,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q67,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q68,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q69,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q70,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q71,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q72,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q73,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q74,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q75,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q76,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q77,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q78,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q79,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q80,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q81,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q82,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q83,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q84,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q85,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q86,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q87,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q88,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q89,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q90,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q91,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q92,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q93,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q94,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q95,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q96,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q97,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q98,17,"Congenital malformations, deformations and chromosomal abnormalities"
+Q99,17,"Congenital malformations, deformations and chromosomal abnormalities"
+R00,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R01,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R02,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R03,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R04,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R05,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R06,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R07,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R08,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R09,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R10,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R11,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R12,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R13,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R14,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R15,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R16,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R17,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R18,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R19,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R20,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R21,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R22,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R23,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R24,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R25,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R26,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R27,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R28,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R29,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R30,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R31,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R32,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R33,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R34,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R35,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R36,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R37,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R38,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R39,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R40,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R41,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R42,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R43,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R44,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R45,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R46,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R47,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R48,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R49,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R50,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R51,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R52,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R53,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R54,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R55,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R56,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R57,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R58,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R59,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R60,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R61,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R62,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R63,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R64,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R65,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R66,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R67,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R68,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R69,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R70,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R71,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R72,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R73,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R74,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R75,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R76,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R77,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R78,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R79,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R80,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R81,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R82,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R83,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R84,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R85,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R86,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R87,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R88,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R89,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R90,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R91,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R92,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R93,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R94,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R95,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R96,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R97,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R98,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R99,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+S00,19,"Injury, poisoning and certain other consequences of external causes"
+S01,19,"Injury, poisoning and certain other consequences of external causes"
+S02,19,"Injury, poisoning and certain other consequences of external causes"
+S03,19,"Injury, poisoning and certain other consequences of external causes"
+S04,19,"Injury, poisoning and certain other consequences of external causes"
+S05,19,"Injury, poisoning and certain other consequences of external causes"
+S06,19,"Injury, poisoning and certain other consequences of external causes"
+S07,19,"Injury, poisoning and certain other consequences of external causes"
+S08,19,"Injury, poisoning and certain other consequences of external causes"
+S09,19,"Injury, poisoning and certain other consequences of external causes"
+S10,19,"Injury, poisoning and certain other consequences of external causes"
+S11,19,"Injury, poisoning and certain other consequences of external causes"
+S12,19,"Injury, poisoning and certain other consequences of external causes"
+S13,19,"Injury, poisoning and certain other consequences of external causes"
+S14,19,"Injury, poisoning and certain other consequences of external causes"
+S15,19,"Injury, poisoning and certain other consequences of external causes"
+S16,19,"Injury, poisoning and certain other consequences of external causes"
+S17,19,"Injury, poisoning and certain other consequences of external causes"
+S18,19,"Injury, poisoning and certain other consequences of external causes"
+S19,19,"Injury, poisoning and certain other consequences of external causes"
+S20,19,"Injury, poisoning and certain other consequences of external causes"
+S21,19,"Injury, poisoning and certain other consequences of external causes"
+S22,19,"Injury, poisoning and certain other consequences of external causes"
+S23,19,"Injury, poisoning and certain other consequences of external causes"
+S24,19,"Injury, poisoning and certain other consequences of external causes"
+S25,19,"Injury, poisoning and certain other consequences of external causes"
+S26,19,"Injury, poisoning and certain other consequences of external causes"
+S27,19,"Injury, poisoning and certain other consequences of external causes"
+S28,19,"Injury, poisoning and certain other consequences of external causes"
+S29,19,"Injury, poisoning and certain other consequences of external causes"
+S30,19,"Injury, poisoning and certain other consequences of external causes"
+S31,19,"Injury, poisoning and certain other consequences of external causes"
+S32,19,"Injury, poisoning and certain other consequences of external causes"
+S33,19,"Injury, poisoning and certain other consequences of external causes"
+S34,19,"Injury, poisoning and certain other consequences of external causes"
+S35,19,"Injury, poisoning and certain other consequences of external causes"
+S36,19,"Injury, poisoning and certain other consequences of external causes"
+S37,19,"Injury, poisoning and certain other consequences of external causes"
+S38,19,"Injury, poisoning and certain other consequences of external causes"
+S39,19,"Injury, poisoning and certain other consequences of external causes"
+S40,19,"Injury, poisoning and certain other consequences of external causes"
+S41,19,"Injury, poisoning and certain other consequences of external causes"
+S42,19,"Injury, poisoning and certain other consequences of external causes"
+S43,19,"Injury, poisoning and certain other consequences of external causes"
+S44,19,"Injury, poisoning and certain other consequences of external causes"
+S45,19,"Injury, poisoning and certain other consequences of external causes"
+S46,19,"Injury, poisoning and certain other consequences of external causes"
+S47,19,"Injury, poisoning and certain other consequences of external causes"
+S48,19,"Injury, poisoning and certain other consequences of external causes"
+S49,19,"Injury, poisoning and certain other consequences of external causes"
+S50,19,"Injury, poisoning and certain other consequences of external causes"
+S51,19,"Injury, poisoning and certain other consequences of external causes"
+S52,19,"Injury, poisoning and certain other consequences of external causes"
+S53,19,"Injury, poisoning and certain other consequences of external causes"
+S54,19,"Injury, poisoning and certain other consequences of external causes"
+S55,19,"Injury, poisoning and certain other consequences of external causes"
+S56,19,"Injury, poisoning and certain other consequences of external causes"
+S57,19,"Injury, poisoning and certain other consequences of external causes"
+S58,19,"Injury, poisoning and certain other consequences of external causes"
+S59,19,"Injury, poisoning and certain other consequences of external causes"
+S60,19,"Injury, poisoning and certain other consequences of external causes"
+S61,19,"Injury, poisoning and certain other consequences of external causes"
+S62,19,"Injury, poisoning and certain other consequences of external causes"
+S63,19,"Injury, poisoning and certain other consequences of external causes"
+S64,19,"Injury, poisoning and certain other consequences of external causes"
+S65,19,"Injury, poisoning and certain other consequences of external causes"
+S66,19,"Injury, poisoning and certain other consequences of external causes"
+S67,19,"Injury, poisoning and certain other consequences of external causes"
+S68,19,"Injury, poisoning and certain other consequences of external causes"
+S69,19,"Injury, poisoning and certain other consequences of external causes"
+S70,19,"Injury, poisoning and certain other consequences of external causes"
+S71,19,"Injury, poisoning and certain other consequences of external causes"
+S72,19,"Injury, poisoning and certain other consequences of external causes"
+S73,19,"Injury, poisoning and certain other consequences of external causes"
+S74,19,"Injury, poisoning and certain other consequences of external causes"
+S75,19,"Injury, poisoning and certain other consequences of external causes"
+S76,19,"Injury, poisoning and certain other consequences of external causes"
+S77,19,"Injury, poisoning and certain other consequences of external causes"
+S78,19,"Injury, poisoning and certain other consequences of external causes"
+S79,19,"Injury, poisoning and certain other consequences of external causes"
+S80,19,"Injury, poisoning and certain other consequences of external causes"
+S81,19,"Injury, poisoning and certain other consequences of external causes"
+S82,19,"Injury, poisoning and certain other consequences of external causes"
+S83,19,"Injury, poisoning and certain other consequences of external causes"
+S84,19,"Injury, poisoning and certain other consequences of external causes"
+S85,19,"Injury, poisoning and certain other consequences of external causes"
+S86,19,"Injury, poisoning and certain other consequences of external causes"
+S87,19,"Injury, poisoning and certain other consequences of external causes"
+S88,19,"Injury, poisoning and certain other consequences of external causes"
+S89,19,"Injury, poisoning and certain other consequences of external causes"
+S90,19,"Injury, poisoning and certain other consequences of external causes"
+S91,19,"Injury, poisoning and certain other consequences of external causes"
+S92,19,"Injury, poisoning and certain other consequences of external causes"
+S93,19,"Injury, poisoning and certain other consequences of external causes"
+S94,19,"Injury, poisoning and certain other consequences of external causes"
+S95,19,"Injury, poisoning and certain other consequences of external causes"
+S96,19,"Injury, poisoning and certain other consequences of external causes"
+S97,19,"Injury, poisoning and certain other consequences of external causes"
+S98,19,"Injury, poisoning and certain other consequences of external causes"
+S99,19,"Injury, poisoning and certain other consequences of external causes"
+T00,19,"Injury, poisoning and certain other consequences of external causes"
+T01,19,"Injury, poisoning and certain other consequences of external causes"
+T02,19,"Injury, poisoning and certain other consequences of external causes"
+T03,19,"Injury, poisoning and certain other consequences of external causes"
+T04,19,"Injury, poisoning and certain other consequences of external causes"
+T05,19,"Injury, poisoning and certain other consequences of external causes"
+T06,19,"Injury, poisoning and certain other consequences of external causes"
+T07,19,"Injury, poisoning and certain other consequences of external causes"
+T08,19,"Injury, poisoning and certain other consequences of external causes"
+T09,19,"Injury, poisoning and certain other consequences of external causes"
+T10,19,"Injury, poisoning and certain other consequences of external causes"
+T11,19,"Injury, poisoning and certain other consequences of external causes"
+T12,19,"Injury, poisoning and certain other consequences of external causes"
+T13,19,"Injury, poisoning and certain other consequences of external causes"
+T14,19,"Injury, poisoning and certain other consequences of external causes"
+T15,19,"Injury, poisoning and certain other consequences of external causes"
+T16,19,"Injury, poisoning and certain other consequences of external causes"
+T17,19,"Injury, poisoning and certain other consequences of external causes"
+T18,19,"Injury, poisoning and certain other consequences of external causes"
+T19,19,"Injury, poisoning and certain other consequences of external causes"
+T20,19,"Injury, poisoning and certain other consequences of external causes"
+T21,19,"Injury, poisoning and certain other consequences of external causes"
+T22,19,"Injury, poisoning and certain other consequences of external causes"
+T23,19,"Injury, poisoning and certain other consequences of external causes"
+T24,19,"Injury, poisoning and certain other consequences of external causes"
+T25,19,"Injury, poisoning and certain other consequences of external causes"
+T26,19,"Injury, poisoning and certain other consequences of external causes"
+T27,19,"Injury, poisoning and certain other consequences of external causes"
+T28,19,"Injury, poisoning and certain other consequences of external causes"
+T29,19,"Injury, poisoning and certain other consequences of external causes"
+T30,19,"Injury, poisoning and certain other consequences of external causes"
+T31,19,"Injury, poisoning and certain other consequences of external causes"
+T32,19,"Injury, poisoning and certain other consequences of external causes"
+T33,19,"Injury, poisoning and certain other consequences of external causes"
+T34,19,"Injury, poisoning and certain other consequences of external causes"
+T35,19,"Injury, poisoning and certain other consequences of external causes"
+T36,19,"Injury, poisoning and certain other consequences of external causes"
+T37,19,"Injury, poisoning and certain other consequences of external causes"
+T38,19,"Injury, poisoning and certain other consequences of external causes"
+T39,19,"Injury, poisoning and certain other consequences of external causes"
+T40,19,"Injury, poisoning and certain other consequences of external causes"
+T41,19,"Injury, poisoning and certain other consequences of external causes"
+T42,19,"Injury, poisoning and certain other consequences of external causes"
+T43,19,"Injury, poisoning and certain other consequences of external causes"
+T44,19,"Injury, poisoning and certain other consequences of external causes"
+T45,19,"Injury, poisoning and certain other consequences of external causes"
+T46,19,"Injury, poisoning and certain other consequences of external causes"
+T47,19,"Injury, poisoning and certain other consequences of external causes"
+T48,19,"Injury, poisoning and certain other consequences of external causes"
+T49,19,"Injury, poisoning and certain other consequences of external causes"
+T50,19,"Injury, poisoning and certain other consequences of external causes"
+T51,19,"Injury, poisoning and certain other consequences of external causes"
+T52,19,"Injury, poisoning and certain other consequences of external causes"
+T53,19,"Injury, poisoning and certain other consequences of external causes"
+T54,19,"Injury, poisoning and certain other consequences of external causes"
+T55,19,"Injury, poisoning and certain other consequences of external causes"
+T56,19,"Injury, poisoning and certain other consequences of external causes"
+T57,19,"Injury, poisoning and certain other consequences of external causes"
+T58,19,"Injury, poisoning and certain other consequences of external causes"
+T59,19,"Injury, poisoning and certain other consequences of external causes"
+T60,19,"Injury, poisoning and certain other consequences of external causes"
+T61,19,"Injury, poisoning and certain other consequences of external causes"
+T62,19,"Injury, poisoning and certain other consequences of external causes"
+T63,19,"Injury, poisoning and certain other consequences of external causes"
+T64,19,"Injury, poisoning and certain other consequences of external causes"
+T65,19,"Injury, poisoning and certain other consequences of external causes"
+T66,19,"Injury, poisoning and certain other consequences of external causes"
+T67,19,"Injury, poisoning and certain other consequences of external causes"
+T68,19,"Injury, poisoning and certain other consequences of external causes"
+T69,19,"Injury, poisoning and certain other consequences of external causes"
+T70,19,"Injury, poisoning and certain other consequences of external causes"
+T71,19,"Injury, poisoning and certain other consequences of external causes"
+T72,19,"Injury, poisoning and certain other consequences of external causes"
+T73,19,"Injury, poisoning and certain other consequences of external causes"
+T74,19,"Injury, poisoning and certain other consequences of external causes"
+T75,19,"Injury, poisoning and certain other consequences of external causes"
+T76,19,"Injury, poisoning and certain other consequences of external causes"
+T77,19,"Injury, poisoning and certain other consequences of external causes"
+T78,19,"Injury, poisoning and certain other consequences of external causes"
+T79,19,"Injury, poisoning and certain other consequences of external causes"
+T80,19,"Injury, poisoning and certain other consequences of external causes"
+T81,19,"Injury, poisoning and certain other consequences of external causes"
+T82,19,"Injury, poisoning and certain other consequences of external causes"
+T83,19,"Injury, poisoning and certain other consequences of external causes"
+T84,19,"Injury, poisoning and certain other consequences of external causes"
+T85,19,"Injury, poisoning and certain other consequences of external causes"
+T86,19,"Injury, poisoning and certain other consequences of external causes"
+T87,19,"Injury, poisoning and certain other consequences of external causes"
+T88,19,"Injury, poisoning and certain other consequences of external causes"
+T89,19,"Injury, poisoning and certain other consequences of external causes"
+T90,19,"Injury, poisoning and certain other consequences of external causes"
+T91,19,"Injury, poisoning and certain other consequences of external causes"
+T92,19,"Injury, poisoning and certain other consequences of external causes"
+T93,19,"Injury, poisoning and certain other consequences of external causes"
+T94,19,"Injury, poisoning and certain other consequences of external causes"
+T95,19,"Injury, poisoning and certain other consequences of external causes"
+T96,19,"Injury, poisoning and certain other consequences of external causes"
+T97,19,"Injury, poisoning and certain other consequences of external causes"
+T98,19,"Injury, poisoning and certain other consequences of external causes"
+V01,20,External causes of morbidity and mortality
+V02,20,External causes of morbidity and mortality
+V03,20,External causes of morbidity and mortality
+V04,20,External causes of morbidity and mortality
+V05,20,External causes of morbidity and mortality
+V06,20,External causes of morbidity and mortality
+V07,20,External causes of morbidity and mortality
+V08,20,External causes of morbidity and mortality
+V09,20,External causes of morbidity and mortality
+V10,20,External causes of morbidity and mortality
+V11,20,External causes of morbidity and mortality
+V12,20,External causes of morbidity and mortality
+V13,20,External causes of morbidity and mortality
+V14,20,External causes of morbidity and mortality
+V15,20,External causes of morbidity and mortality
+V16,20,External causes of morbidity and mortality
+V17,20,External causes of morbidity and mortality
+V18,20,External causes of morbidity and mortality
+V19,20,External causes of morbidity and mortality
+V20,20,External causes of morbidity and mortality
+V21,20,External causes of morbidity and mortality
+V22,20,External causes of morbidity and mortality
+V23,20,External causes of morbidity and mortality
+V24,20,External causes of morbidity and mortality
+V25,20,External causes of morbidity and mortality
+V26,20,External causes of morbidity and mortality
+V27,20,External causes of morbidity and mortality
+V28,20,External causes of morbidity and mortality
+V29,20,External causes of morbidity and mortality
+V30,20,External causes of morbidity and mortality
+V31,20,External causes of morbidity and mortality
+V32,20,External causes of morbidity and mortality
+V33,20,External causes of morbidity and mortality
+V34,20,External causes of morbidity and mortality
+V35,20,External causes of morbidity and mortality
+V36,20,External causes of morbidity and mortality
+V37,20,External causes of morbidity and mortality
+V38,20,External causes of morbidity and mortality
+V39,20,External causes of morbidity and mortality
+V40,20,External causes of morbidity and mortality
+V41,20,External causes of morbidity and mortality
+V42,20,External causes of morbidity and mortality
+V43,20,External causes of morbidity and mortality
+V44,20,External causes of morbidity and mortality
+V45,20,External causes of morbidity and mortality
+V46,20,External causes of morbidity and mortality
+V47,20,External causes of morbidity and mortality
+V48,20,External causes of morbidity and mortality
+V49,20,External causes of morbidity and mortality
+V50,20,External causes of morbidity and mortality
+V51,20,External causes of morbidity and mortality
+V52,20,External causes of morbidity and mortality
+V53,20,External causes of morbidity and mortality
+V54,20,External causes of morbidity and mortality
+V55,20,External causes of morbidity and mortality
+V56,20,External causes of morbidity and mortality
+V57,20,External causes of morbidity and mortality
+V58,20,External causes of morbidity and mortality
+V59,20,External causes of morbidity and mortality
+V60,20,External causes of morbidity and mortality
+V61,20,External causes of morbidity and mortality
+V62,20,External causes of morbidity and mortality
+V63,20,External causes of morbidity and mortality
+V64,20,External causes of morbidity and mortality
+V65,20,External causes of morbidity and mortality
+V66,20,External causes of morbidity and mortality
+V67,20,External causes of morbidity and mortality
+V68,20,External causes of morbidity and mortality
+V69,20,External causes of morbidity and mortality
+V70,20,External causes of morbidity and mortality
+V71,20,External causes of morbidity and mortality
+V72,20,External causes of morbidity and mortality
+V73,20,External causes of morbidity and mortality
+V74,20,External causes of morbidity and mortality
+V75,20,External causes of morbidity and mortality
+V76,20,External causes of morbidity and mortality
+V77,20,External causes of morbidity and mortality
+V78,20,External causes of morbidity and mortality
+V79,20,External causes of morbidity and mortality
+V80,20,External causes of morbidity and mortality
+V81,20,External causes of morbidity and mortality
+V82,20,External causes of morbidity and mortality
+V83,20,External causes of morbidity and mortality
+V84,20,External causes of morbidity and mortality
+V85,20,External causes of morbidity and mortality
+V86,20,External causes of morbidity and mortality
+V87,20,External causes of morbidity and mortality
+V88,20,External causes of morbidity and mortality
+V89,20,External causes of morbidity and mortality
+V90,20,External causes of morbidity and mortality
+V91,20,External causes of morbidity and mortality
+V92,20,External causes of morbidity and mortality
+V93,20,External causes of morbidity and mortality
+V94,20,External causes of morbidity and mortality
+V95,20,External causes of morbidity and mortality
+V96,20,External causes of morbidity and mortality
+V97,20,External causes of morbidity and mortality
+V98,20,External causes of morbidity and mortality
+V99,20,External causes of morbidity and mortality
+W00,20,External causes of morbidity and mortality
+W01,20,External causes of morbidity and mortality
+W02,20,External causes of morbidity and mortality
+W03,20,External causes of morbidity and mortality
+W04,20,External causes of morbidity and mortality
+W05,20,External causes of morbidity and mortality
+W06,20,External causes of morbidity and mortality
+W07,20,External causes of morbidity and mortality
+W08,20,External causes of morbidity and mortality
+W09,20,External causes of morbidity and mortality
+W10,20,External causes of morbidity and mortality
+W11,20,External causes of morbidity and mortality
+W12,20,External causes of morbidity and mortality
+W13,20,External causes of morbidity and mortality
+W14,20,External causes of morbidity and mortality
+W15,20,External causes of morbidity and mortality
+W16,20,External causes of morbidity and mortality
+W17,20,External causes of morbidity and mortality
+W18,20,External causes of morbidity and mortality
+W19,20,External causes of morbidity and mortality
+W20,20,External causes of morbidity and mortality
+W21,20,External causes of morbidity and mortality
+W22,20,External causes of morbidity and mortality
+W23,20,External causes of morbidity and mortality
+W24,20,External causes of morbidity and mortality
+W25,20,External causes of morbidity and mortality
+W26,20,External causes of morbidity and mortality
+W27,20,External causes of morbidity and mortality
+W28,20,External causes of morbidity and mortality
+W29,20,External causes of morbidity and mortality
+W30,20,External causes of morbidity and mortality
+W31,20,External causes of morbidity and mortality
+W32,20,External causes of morbidity and mortality
+W33,20,External causes of morbidity and mortality
+W34,20,External causes of morbidity and mortality
+W35,20,External causes of morbidity and mortality
+W36,20,External causes of morbidity and mortality
+W37,20,External causes of morbidity and mortality
+W38,20,External causes of morbidity and mortality
+W39,20,External causes of morbidity and mortality
+W40,20,External causes of morbidity and mortality
+W41,20,External causes of morbidity and mortality
+W42,20,External causes of morbidity and mortality
+W43,20,External causes of morbidity and mortality
+W44,20,External causes of morbidity and mortality
+W45,20,External causes of morbidity and mortality
+W46,20,External causes of morbidity and mortality
+W47,20,External causes of morbidity and mortality
+W48,20,External causes of morbidity and mortality
+W49,20,External causes of morbidity and mortality
+W50,20,External causes of morbidity and mortality
+W51,20,External causes of morbidity and mortality
+W52,20,External causes of morbidity and mortality
+W53,20,External causes of morbidity and mortality
+W54,20,External causes of morbidity and mortality
+W55,20,External causes of morbidity and mortality
+W56,20,External causes of morbidity and mortality
+W57,20,External causes of morbidity and mortality
+W58,20,External causes of morbidity and mortality
+W59,20,External causes of morbidity and mortality
+W60,20,External causes of morbidity and mortality
+W61,20,External causes of morbidity and mortality
+W62,20,External causes of morbidity and mortality
+W63,20,External causes of morbidity and mortality
+W64,20,External causes of morbidity and mortality
+W65,20,External causes of morbidity and mortality
+W66,20,External causes of morbidity and mortality
+W67,20,External causes of morbidity and mortality
+W68,20,External causes of morbidity and mortality
+W69,20,External causes of morbidity and mortality
+W70,20,External causes of morbidity and mortality
+W71,20,External causes of morbidity and mortality
+W72,20,External causes of morbidity and mortality
+W73,20,External causes of morbidity and mortality
+W74,20,External causes of morbidity and mortality
+W75,20,External causes of morbidity and mortality
+W76,20,External causes of morbidity and mortality
+W77,20,External causes of morbidity and mortality
+W78,20,External causes of morbidity and mortality
+W79,20,External causes of morbidity and mortality
+W80,20,External causes of morbidity and mortality
+W81,20,External causes of morbidity and mortality
+W82,20,External causes of morbidity and mortality
+W83,20,External causes of morbidity and mortality
+W84,20,External causes of morbidity and mortality
+W85,20,External causes of morbidity and mortality
+W86,20,External causes of morbidity and mortality
+W87,20,External causes of morbidity and mortality
+W88,20,External causes of morbidity and mortality
+W89,20,External causes of morbidity and mortality
+W90,20,External causes of morbidity and mortality
+W91,20,External causes of morbidity and mortality
+W92,20,External causes of morbidity and mortality
+W93,20,External causes of morbidity and mortality
+W94,20,External causes of morbidity and mortality
+W95,20,External causes of morbidity and mortality
+W96,20,External causes of morbidity and mortality
+W97,20,External causes of morbidity and mortality
+W98,20,External causes of morbidity and mortality
+W99,20,External causes of morbidity and mortality
+X00,20,External causes of morbidity and mortality
+X01,20,External causes of morbidity and mortality
+X02,20,External causes of morbidity and mortality
+X03,20,External causes of morbidity and mortality
+X04,20,External causes of morbidity and mortality
+X05,20,External causes of morbidity and mortality
+X06,20,External causes of morbidity and mortality
+X07,20,External causes of morbidity and mortality
+X08,20,External causes of morbidity and mortality
+X09,20,External causes of morbidity and mortality
+X10,20,External causes of morbidity and mortality
+X11,20,External causes of morbidity and mortality
+X12,20,External causes of morbidity and mortality
+X13,20,External causes of morbidity and mortality
+X14,20,External causes of morbidity and mortality
+X15,20,External causes of morbidity and mortality
+X16,20,External causes of morbidity and mortality
+X17,20,External causes of morbidity and mortality
+X18,20,External causes of morbidity and mortality
+X19,20,External causes of morbidity and mortality
+X20,20,External causes of morbidity and mortality
+X21,20,External causes of morbidity and mortality
+X22,20,External causes of morbidity and mortality
+X23,20,External causes of morbidity and mortality
+X24,20,External causes of morbidity and mortality
+X25,20,External causes of morbidity and mortality
+X26,20,External causes of morbidity and mortality
+X27,20,External causes of morbidity and mortality
+X28,20,External causes of morbidity and mortality
+X29,20,External causes of morbidity and mortality
+X30,20,External causes of morbidity and mortality
+X31,20,External causes of morbidity and mortality
+X32,20,External causes of morbidity and mortality
+X33,20,External causes of morbidity and mortality
+X34,20,External causes of morbidity and mortality
+X35,20,External causes of morbidity and mortality
+X36,20,External causes of morbidity and mortality
+X37,20,External causes of morbidity and mortality
+X38,20,External causes of morbidity and mortality
+X39,20,External causes of morbidity and mortality
+X40,20,External causes of morbidity and mortality
+X41,20,External causes of morbidity and mortality
+X42,20,External causes of morbidity and mortality
+X43,20,External causes of morbidity and mortality
+X44,20,External causes of morbidity and mortality
+X45,20,External causes of morbidity and mortality
+X46,20,External causes of morbidity and mortality
+X47,20,External causes of morbidity and mortality
+X48,20,External causes of morbidity and mortality
+X49,20,External causes of morbidity and mortality
+X50,20,External causes of morbidity and mortality
+X51,20,External causes of morbidity and mortality
+X52,20,External causes of morbidity and mortality
+X53,20,External causes of morbidity and mortality
+X54,20,External causes of morbidity and mortality
+X55,20,External causes of morbidity and mortality
+X56,20,External causes of morbidity and mortality
+X57,20,External causes of morbidity and mortality
+X58,20,External causes of morbidity and mortality
+X59,20,External causes of morbidity and mortality
+X60,20,External causes of morbidity and mortality
+X61,20,External causes of morbidity and mortality
+X62,20,External causes of morbidity and mortality
+X63,20,External causes of morbidity and mortality
+X64,20,External causes of morbidity and mortality
+X65,20,External causes of morbidity and mortality
+X66,20,External causes of morbidity and mortality
+X67,20,External causes of morbidity and mortality
+X68,20,External causes of morbidity and mortality
+X69,20,External causes of morbidity and mortality
+X70,20,External causes of morbidity and mortality
+X71,20,External causes of morbidity and mortality
+X72,20,External causes of morbidity and mortality
+X73,20,External causes of morbidity and mortality
+X74,20,External causes of morbidity and mortality
+X75,20,External causes of morbidity and mortality
+X76,20,External causes of morbidity and mortality
+X77,20,External causes of morbidity and mortality
+X78,20,External causes of morbidity and mortality
+X79,20,External causes of morbidity and mortality
+X80,20,External causes of morbidity and mortality
+X81,20,External causes of morbidity and mortality
+X82,20,External causes of morbidity and mortality
+X83,20,External causes of morbidity and mortality
+X84,20,External causes of morbidity and mortality
+X85,20,External causes of morbidity and mortality
+X86,20,External causes of morbidity and mortality
+X87,20,External causes of morbidity and mortality
+X88,20,External causes of morbidity and mortality
+X89,20,External causes of morbidity and mortality
+X90,20,External causes of morbidity and mortality
+X91,20,External causes of morbidity and mortality
+X92,20,External causes of morbidity and mortality
+X93,20,External causes of morbidity and mortality
+X94,20,External causes of morbidity and mortality
+X95,20,External causes of morbidity and mortality
+X96,20,External causes of morbidity and mortality
+X97,20,External causes of morbidity and mortality
+X98,20,External causes of morbidity and mortality
+X99,20,External causes of morbidity and mortality
+Y00,20,External causes of morbidity and mortality
+Y01,20,External causes of morbidity and mortality
+Y02,20,External causes of morbidity and mortality
+Y03,20,External causes of morbidity and mortality
+Y04,20,External causes of morbidity and mortality
+Y05,20,External causes of morbidity and mortality
+Y06,20,External causes of morbidity and mortality
+Y07,20,External causes of morbidity and mortality
+Y08,20,External causes of morbidity and mortality
+Y09,20,External causes of morbidity and mortality
+Y10,20,External causes of morbidity and mortality
+Y11,20,External causes of morbidity and mortality
+Y12,20,External causes of morbidity and mortality
+Y13,20,External causes of morbidity and mortality
+Y14,20,External causes of morbidity and mortality
+Y15,20,External causes of morbidity and mortality
+Y16,20,External causes of morbidity and mortality
+Y17,20,External causes of morbidity and mortality
+Y18,20,External causes of morbidity and mortality
+Y19,20,External causes of morbidity and mortality
+Y20,20,External causes of morbidity and mortality
+Y21,20,External causes of morbidity and mortality
+Y22,20,External causes of morbidity and mortality
+Y23,20,External causes of morbidity and mortality
+Y24,20,External causes of morbidity and mortality
+Y25,20,External causes of morbidity and mortality
+Y26,20,External causes of morbidity and mortality
+Y27,20,External causes of morbidity and mortality
+Y28,20,External causes of morbidity and mortality
+Y29,20,External causes of morbidity and mortality
+Y30,20,External causes of morbidity and mortality
+Y31,20,External causes of morbidity and mortality
+Y32,20,External causes of morbidity and mortality
+Y33,20,External causes of morbidity and mortality
+Y34,20,External causes of morbidity and mortality
+Y35,20,External causes of morbidity and mortality
+Y36,20,External causes of morbidity and mortality
+Y37,20,External causes of morbidity and mortality
+Y38,20,External causes of morbidity and mortality
+Y39,20,External causes of morbidity and mortality
+Y40,20,External causes of morbidity and mortality
+Y41,20,External causes of morbidity and mortality
+Y42,20,External causes of morbidity and mortality
+Y43,20,External causes of morbidity and mortality
+Y44,20,External causes of morbidity and mortality
+Y45,20,External causes of morbidity and mortality
+Y46,20,External causes of morbidity and mortality
+Y47,20,External causes of morbidity and mortality
+Y48,20,External causes of morbidity and mortality
+Y49,20,External causes of morbidity and mortality
+Y50,20,External causes of morbidity and mortality
+Y51,20,External causes of morbidity and mortality
+Y52,20,External causes of morbidity and mortality
+Y53,20,External causes of morbidity and mortality
+Y54,20,External causes of morbidity and mortality
+Y55,20,External causes of morbidity and mortality
+Y56,20,External causes of morbidity and mortality
+Y57,20,External causes of morbidity and mortality
+Y58,20,External causes of morbidity and mortality
+Y59,20,External causes of morbidity and mortality
+Y60,20,External causes of morbidity and mortality
+Y61,20,External causes of morbidity and mortality
+Y62,20,External causes of morbidity and mortality
+Y63,20,External causes of morbidity and mortality
+Y64,20,External causes of morbidity and mortality
+Y65,20,External causes of morbidity and mortality
+Y66,20,External causes of morbidity and mortality
+Y67,20,External causes of morbidity and mortality
+Y68,20,External causes of morbidity and mortality
+Y69,20,External causes of morbidity and mortality
+Y70,20,External causes of morbidity and mortality
+Y71,20,External causes of morbidity and mortality
+Y72,20,External causes of morbidity and mortality
+Y73,20,External causes of morbidity and mortality
+Y74,20,External causes of morbidity and mortality
+Y75,20,External causes of morbidity and mortality
+Y76,20,External causes of morbidity and mortality
+Y77,20,External causes of morbidity and mortality
+Y78,20,External causes of morbidity and mortality
+Y79,20,External causes of morbidity and mortality
+Y80,20,External causes of morbidity and mortality
+Y81,20,External causes of morbidity and mortality
+Y82,20,External causes of morbidity and mortality
+Y83,20,External causes of morbidity and mortality
+Y84,20,External causes of morbidity and mortality
+Y85,20,External causes of morbidity and mortality
+Y86,20,External causes of morbidity and mortality
+Y87,20,External causes of morbidity and mortality
+Y88,20,External causes of morbidity and mortality
+Y89,20,External causes of morbidity and mortality
+Y90,20,External causes of morbidity and mortality
+Y91,20,External causes of morbidity and mortality
+Y92,20,External causes of morbidity and mortality
+Y93,20,External causes of morbidity and mortality
+Y94,20,External causes of morbidity and mortality
+Y95,20,External causes of morbidity and mortality
+Y96,20,External causes of morbidity and mortality
+Y97,20,External causes of morbidity and mortality
+Y98,20,External causes of morbidity and mortality
+Z00,21,Factors influencing health status and contact with health services
+Z01,21,Factors influencing health status and contact with health services
+Z02,21,Factors influencing health status and contact with health services
+Z03,21,Factors influencing health status and contact with health services
+Z04,21,Factors influencing health status and contact with health services
+Z05,21,Factors influencing health status and contact with health services
+Z06,21,Factors influencing health status and contact with health services
+Z07,21,Factors influencing health status and contact with health services
+Z08,21,Factors influencing health status and contact with health services
+Z09,21,Factors influencing health status and contact with health services
+Z10,21,Factors influencing health status and contact with health services
+Z11,21,Factors influencing health status and contact with health services
+Z12,21,Factors influencing health status and contact with health services
+Z13,21,Factors influencing health status and contact with health services
+Z14,21,Factors influencing health status and contact with health services
+Z15,21,Factors influencing health status and contact with health services
+Z16,21,Factors influencing health status and contact with health services
+Z17,21,Factors influencing health status and contact with health services
+Z18,21,Factors influencing health status and contact with health services
+Z19,21,Factors influencing health status and contact with health services
+Z20,21,Factors influencing health status and contact with health services
+Z21,21,Factors influencing health status and contact with health services
+Z22,21,Factors influencing health status and contact with health services
+Z23,21,Factors influencing health status and contact with health services
+Z24,21,Factors influencing health status and contact with health services
+Z25,21,Factors influencing health status and contact with health services
+Z26,21,Factors influencing health status and contact with health services
+Z27,21,Factors influencing health status and contact with health services
+Z28,21,Factors influencing health status and contact with health services
+Z29,21,Factors influencing health status and contact with health services
+Z30,21,Factors influencing health status and contact with health services
+Z31,21,Factors influencing health status and contact with health services
+Z32,21,Factors influencing health status and contact with health services
+Z33,21,Factors influencing health status and contact with health services
+Z34,21,Factors influencing health status and contact with health services
+Z35,21,Factors influencing health status and contact with health services
+Z36,21,Factors influencing health status and contact with health services
+Z37,21,Factors influencing health status and contact with health services
+Z38,21,Factors influencing health status and contact with health services
+Z39,21,Factors influencing health status and contact with health services
+Z40,21,Factors influencing health status and contact with health services
+Z41,21,Factors influencing health status and contact with health services
+Z42,21,Factors influencing health status and contact with health services
+Z43,21,Factors influencing health status and contact with health services
+Z44,21,Factors influencing health status and contact with health services
+Z45,21,Factors influencing health status and contact with health services
+Z46,21,Factors influencing health status and contact with health services
+Z47,21,Factors influencing health status and contact with health services
+Z48,21,Factors influencing health status and contact with health services
+Z49,21,Factors influencing health status and contact with health services
+Z50,21,Factors influencing health status and contact with health services
+Z51,21,Factors influencing health status and contact with health services
+Z52,21,Factors influencing health status and contact with health services
+Z53,21,Factors influencing health status and contact with health services
+Z54,21,Factors influencing health status and contact with health services
+Z55,21,Factors influencing health status and contact with health services
+Z56,21,Factors influencing health status and contact with health services
+Z57,21,Factors influencing health status and contact with health services
+Z58,21,Factors influencing health status and contact with health services
+Z59,21,Factors influencing health status and contact with health services
+Z60,21,Factors influencing health status and contact with health services
+Z61,21,Factors influencing health status and contact with health services
+Z62,21,Factors influencing health status and contact with health services
+Z63,21,Factors influencing health status and contact with health services
+Z64,21,Factors influencing health status and contact with health services
+Z65,21,Factors influencing health status and contact with health services
+Z66,21,Factors influencing health status and contact with health services
+Z67,21,Factors influencing health status and contact with health services
+Z68,21,Factors influencing health status and contact with health services
+Z69,21,Factors influencing health status and contact with health services
+Z70,21,Factors influencing health status and contact with health services
+Z71,21,Factors influencing health status and contact with health services
+Z72,21,Factors influencing health status and contact with health services
+Z73,21,Factors influencing health status and contact with health services
+Z74,21,Factors influencing health status and contact with health services
+Z75,21,Factors influencing health status and contact with health services
+Z76,21,Factors influencing health status and contact with health services
+Z77,21,Factors influencing health status and contact with health services
+Z78,21,Factors influencing health status and contact with health services
+Z79,21,Factors influencing health status and contact with health services
+Z80,21,Factors influencing health status and contact with health services
+Z81,21,Factors influencing health status and contact with health services
+Z82,21,Factors influencing health status and contact with health services
+Z83,21,Factors influencing health status and contact with health services
+Z84,21,Factors influencing health status and contact with health services
+Z85,21,Factors influencing health status and contact with health services
+Z86,21,Factors influencing health status and contact with health services
+Z87,21,Factors influencing health status and contact with health services
+Z88,21,Factors influencing health status and contact with health services
+Z89,21,Factors influencing health status and contact with health services
+Z90,21,Factors influencing health status and contact with health services
+Z91,21,Factors influencing health status and contact with health services
+Z92,21,Factors influencing health status and contact with health services
+Z93,21,Factors influencing health status and contact with health services
+Z94,21,Factors influencing health status and contact with health services
+Z95,21,Factors influencing health status and contact with health services
+Z96,21,Factors influencing health status and contact with health services
+Z97,21,Factors influencing health status and contact with health services
+Z98,21,Factors influencing health status and contact with health services
+Z99,21,Factors influencing health status and contact with health services
+U04,22,Codes for special purposes
+U05,22,Codes for special purposes
+U06,22,Codes for special purposes
+U07,22,Codes for special purposes
+U08,22,Codes for special purposes
+U09,22,Codes for special purposes
+U10,22,Codes for special purposes
+U11,22,Codes for special purposes
+U12,22,Codes for special purposes
+U13,22,Codes for special purposes
+U14,22,Codes for special purposes
+U15,22,Codes for special purposes
+U16,22,Codes for special purposes
+U17,22,Codes for special purposes
+U18,22,Codes for special purposes
+U19,22,Codes for special purposes
+U20,22,Codes for special purposes
+U21,22,Codes for special purposes
+U22,22,Codes for special purposes
+U23,22,Codes for special purposes
+U24,22,Codes for special purposes
+U25,22,Codes for special purposes
+U26,22,Codes for special purposes
+U27,22,Codes for special purposes
+U28,22,Codes for special purposes
+U29,22,Codes for special purposes
+U30,22,Codes for special purposes
+U31,22,Codes for special purposes
+U32,22,Codes for special purposes
+U33,22,Codes for special purposes
+U34,22,Codes for special purposes
+U35,22,Codes for special purposes
+U36,22,Codes for special purposes
+U37,22,Codes for special purposes
+U38,22,Codes for special purposes
+U39,22,Codes for special purposes
+U40,22,Codes for special purposes
+U41,22,Codes for special purposes
+U42,22,Codes for special purposes
+U43,22,Codes for special purposes
+U44,22,Codes for special purposes
+U45,22,Codes for special purposes
+U46,22,Codes for special purposes
+U47,22,Codes for special purposes
+U48,22,Codes for special purposes
+U49,22,Codes for special purposes
+U50,22,Codes for special purposes
+U51,22,Codes for special purposes
+U52,22,Codes for special purposes
+U53,22,Codes for special purposes
+U54,22,Codes for special purposes
+U55,22,Codes for special purposes
+U56,22,Codes for special purposes
+U57,22,Codes for special purposes
+U58,22,Codes for special purposes
+U59,22,Codes for special purposes
+U60,22,Codes for special purposes
+U61,22,Codes for special purposes
+U62,22,Codes for special purposes
+U63,22,Codes for special purposes
+U64,22,Codes for special purposes
+U65,22,Codes for special purposes
+U66,22,Codes for special purposes
+U67,22,Codes for special purposes
+U68,22,Codes for special purposes
+U69,22,Codes for special purposes
+U70,22,Codes for special purposes
+U71,22,Codes for special purposes
+U72,22,Codes for special purposes
+U73,22,Codes for special purposes
+U74,22,Codes for special purposes
+U75,22,Codes for special purposes
+U76,22,Codes for special purposes
+U77,22,Codes for special purposes
+U78,22,Codes for special purposes
+U79,22,Codes for special purposes
+U80,22,Codes for special purposes
+U81,22,Codes for special purposes
+U82,22,Codes for special purposes
+U83,22,Codes for special purposes
+U84,22,Codes for special purposes
+U85,22,Codes for special purposes
+U86,22,Codes for special purposes
+U87,22,Codes for special purposes
+U88,22,Codes for special purposes
+U89,22,Codes for special purposes
+U90,22,Codes for special purposes
+U91,22,Codes for special purposes
+U92,22,Codes for special purposes
+U93,22,Codes for special purposes
+U94,22,Codes for special purposes
+U95,22,Codes for special purposes
+U96,22,Codes for special purposes
+U97,22,Codes for special purposes
+U98,22,Codes for special purposes
+U99,22,Codes for special purposes

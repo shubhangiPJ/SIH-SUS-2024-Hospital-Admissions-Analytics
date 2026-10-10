@@ -1,0 +1,39 @@
+# Raw monthly SIH/SUS data
+data_extraction/
+raw_data/
+data/raw/
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Jupyter / Python 
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.env.*
+
+# OS / IDE / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+~$*
+
+# Tableau local extractsand temporary files
+*.twb~
+*.tmp
+*.hyper
+*.tde
+Extracts/
+tableau/*.twbx
+
+# Temp / scratch 
+*.tmp
+*.bak
+scratch/
