@@ -1,6 +1,6 @@
 # SIH/SUS 2024 Hospital Admissions Analytics
 
-An end-to-end healthcare analytics project examining Brazil's 2024 SIH/SUS hospital admission records, covering **13,786,854 records** across the full calendar year. The project combines data validation, variable selection, SQL-based analysis, and Tableau visualization to investigate demographic composition, diagnostic case mix, resource utilization, and recorded hospitalization expenditure.
+An end-to-end healthcare analytics project examining Brazil's 2024 SIH/SUS hospital admission records, covering **13,786,854 records** across the full calendar year. The project combines data validation, variable selection, SQL-based analysis, and Tableau visualization to investigate demographic composition, diagnostic case mix, resource utilization, and recorded reimbursement patterns.
 
 The analysis emphasizes data quality, transparent methodology, and descriptive(non-causal) interpretation of real-world healthcare data.
 
